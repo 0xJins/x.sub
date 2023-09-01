@@ -1,0 +1,20 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：17 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🌞🌞网址：www.qqcryxr.com - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr2.com - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🌞🌞网址：www.cryxr3.com - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 新网址：sockboom.link - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: 距离下次重置剩余：28 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 081f83c3-429e-41ac-a4ea-1a3074c334d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 127612:mWOb8o, obfs-param: '872a5127612.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：28 天 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: 018c3e72-8468-413a-8d7f-b2a67cc4d627, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 018c3e72-8468-413a-8d7f-b2a67cc4d627, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 官网网址：qhcy.cc  qhcy.me - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
+- {name: 官方TG售后讨论频道：https://t.me/Qhcygfpd - 青花瓷云qhcy.cc, server: 8.8.8.8, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
+- {name: 距离下次重置剩余：14 天 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
+- {name: 官网 https://cccc.gg - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 463565c2-0c76-333e-91c5-89b12711433d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 463565c2-0c76-333e-91c5-89b12711433d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：28 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 7af2973d-07e7-408b-bb3f-fb1977427239, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 7af2973d-07e7-408b-bb3f-fb1977427239, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}

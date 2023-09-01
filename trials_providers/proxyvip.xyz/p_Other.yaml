@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 导航网址：https://proxyvip.github.io - Proxyvip, server: hk-01.v1vip.top, port: 31001, type: trojan, password: e93e476e-3397-4b32-8578-4b8fd9c83de4, sni: hk-01.v4vip.top, skip-cert-verify: true, udp: true}

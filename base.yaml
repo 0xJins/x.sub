@@ -1,0 +1,66 @@
+%YAML 1.1
+---
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: :9090
+proxy-groups:
+- name: ⚡ ‍低延迟
+  use:
+  - All
+- name: 🇭🇰 ‍香港
+  use:
+  - HK
+- name: 🇹🇼 ‍台湾
+  use:
+  - TW
+- name: 🇨🇳 ‍中国
+  use:
+  - CN
+- name: 🇸🇬 ‍新加坡
+  use:
+  - SG
+- name: 🇯🇵 ‍日本
+  use:
+  - JP
+- name: 🇺🇸 ‍美国
+  use:
+  - US
+- name: 🎏 ‍其他
+  use:
+  - Other
+- name: 👆🏻 ‍指定
+  use:
+  - All
+- name: 👆🏻🇭🇰 ‍香港
+  use:
+  - HK
+- name: 👆🏻🇹🇼 ‍台湾
+  use:
+  - TW
+- name: 👆🏻🇨🇳 ‍中国
+  use:
+  - CN
+- name: 👆🏻🇸🇬 ‍新加坡
+  use:
+  - SG
+- name: 👆🏻🇯🇵 ‍日本
+  use:
+  - JP
+- name: 👆🏻🇺🇸 ‍美国
+  use:
+  - US
+- name: 👆🏻🎏 ‍其他
+  use:
+  - Other
+proxy-providers:
+  All:
+    type: http
+    url:
+    interval: 180
+    path:
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30

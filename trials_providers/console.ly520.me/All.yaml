@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 | 2X - 凌云网络, server: 112.65.27.179, port: 36028, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-02 | 2X - 凌云网络, server: 112.65.27.179, port: 36020, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: 112.65.27.179, port: 36021, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: 112.65.27.179, port: 26025, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 112.65.27.179, port: 26033, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 112.65.27.179, port: 26035, type: vmess, uuid: 24c4f0ce-5452-495b-b94e-17205e65ebf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 aga香港游戏节点 - cloudtu, server: yt201.jdxx1.com, port: 16385, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 HKT解锁 - cloudtu, server: yt201.jdxx1.com, port: 16390, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口1 - cloudtu, server: yt201.jdxx1.com, port: 15886, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口2 - cloudtu, server: yt201.jdxx1.com, port: 15887, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口3 - cloudtu, server: yt201.jdxx1.com, port: 15888, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口4 - cloudtu, server: yt201.jdxx.xyz, port: 15889, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇭🇰 香港HKT转移动G口5 - cloudtu, server: yt201.jdxx1.com, port: 15890, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}

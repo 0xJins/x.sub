@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 AZ日本隧道转移动1 - cloudtu, server: yt201.jdxx1.com, port: 16486, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇯🇵 AZ日本隧道转移动2 - cloudtu, server: yt201.jdxx1.com, port: 16487, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}
+- {name: 🇯🇵 AZ日本隧道转移动4 - cloudtu, server: yt201.jdxx1.com, port: 16489, type: ssr, cipher: chacha20-ietf, password: EHejzp, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 7086:VO79GY, obfs-param: 2024c7086.download.windowsupdate.com, udp: true}

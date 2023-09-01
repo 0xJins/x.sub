@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: cd627261-f616-46fd-86fa-14d2900623d2, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: cd627261-f616-46fd-86fa-14d2900623d2, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32101, type: trojan, password: cd627261-f616-46fd-86fa-14d2900623d2, sni: jp4.biubiufast.quest, skip-cert-verify: true, udp: true}

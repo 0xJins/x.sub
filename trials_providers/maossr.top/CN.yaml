@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36018, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36019, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36020, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 直连1 - 爱猫论坛, server: newtw.henyo.us, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: newtw.henyo.us}}, udp: true}
+- {name: 🇹🇼 台湾 直连2 - 爱猫论坛, server: tw.henyo.us, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: tw.henyo.us}}, udp: true}
+- {name: 🇹🇼 台湾 直连3 - 爱猫论坛, server: hinet.henyo.us, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hinet.henyo.us}}, udp: true}
+- {name: 🇹🇼 台湾 直连4 - 爱猫论坛, server: twtw.henyo.us, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: twtw.henyo.us}}, udp: true}
+- {name: 🇭🇰 香港 BGP直连测试 - 爱猫论坛, server: hkbgp.henyo.us, port: 1443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hkbgp.henyo.us}}, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛, server: 120.195.181.54, port: 36010, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛, server: 120.195.181.54, port: 36021, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 直连1 - 爱猫论坛, server: hk1.594888.xyz, port: 2443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: hk1.594888.xyz}}, udp: true}
+- {name: 🇭🇰 香港 直连2 - 爱猫论坛, server: hk2.594888.xyz, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: hk2.594888.xyz}}, udp: true}

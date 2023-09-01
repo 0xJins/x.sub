@@ -1,0 +1,24 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港 01----永久域名：老猫.com - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 02 - 老猫云, server: cn1.laomao2.xyz, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 03 - 老猫云, server: cn1.laomao2.xyz, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 04 - 老猫云, server: cn1.laomao2.xyz, port: 30004, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 05 - 老猫云, server: cn1.laomao2.xyz, port: 30005, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 06 - 老猫云, server: cn1.laomao2.xyz, port: 30006, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 07 - 老猫云, server: cn1.laomao2.xyz, port: 30007, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 08 - 老猫云, server: cn1.laomao2.xyz, port: 30008, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 09 - 老猫云, server: cn1.laomao2.xyz, port: 30009, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 10 - 老猫云, server: cn1.laomao2.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 11 - 老猫云, server: cn1.laomao2.xyz, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 12 - 老猫云, server: cn1.laomao2.xyz, port: 30012, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 13 - 老猫云, server: cn1.laomao2.xyz, port: 30013, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 14 - 老猫云, server: cn1.laomao2.xyz, port: 30014, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 15 - 老猫云, server: cn1.laomao2.xyz, port: 30015, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 16 - 老猫云, server: cn1.laomao2.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 17 - 老猫云, server: cn1.laomao2.xyz, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 18 - 老猫云, server: cn1.laomao2.xyz, port: 30018, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 19 - 老猫云, server: cn1.laomao2.xyz, port: 30019, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇭🇰 香港 20 - 老猫云, server: cn1.laomao2.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇹🇼 台湾 01 - 老猫云, server: cn1.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}

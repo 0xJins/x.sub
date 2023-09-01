@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 44034, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
+- {name: 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 18682, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
+- {name: 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 60778, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
+- {name: 🇭🇰 A香港04 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 53055, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}

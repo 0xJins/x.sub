@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 01 - 老猫云, server: cn1.laomao2.xyz, port: 30101, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 02 - 老猫云, server: cn1.laomao2.xyz, port: 30102, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 03 - 老猫云, server: cn1.laomao2.xyz, port: 30103, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 04 - 老猫云, server: cn1.laomao2.xyz, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 05 - 老猫云, server: cn1.laomao2.xyz, port: 30105, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 06 - 老猫云, server: cn1.laomao2.xyz, port: 30106, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 07 - 老猫云, server: cn1.laomao2.xyz, port: 30107, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 08 - 老猫云, server: cn1.laomao2.xyz, port: 30108, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 09 - 老猫云, server: cn1.laomao2.xyz, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
+- {name: 🇯🇵 日本 10 - 老猫云, server: cn1.laomao2.xyz, port: 30110, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}

@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 1-HK-华东 - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 2-HK-华北 - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 3-HK-华南 - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 4-HK-随机 - 小白云, server: hk4.iepl.cooc.icu, port: 24881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇭🇰 5-香港-备用 - 小白云, server: hk6.iepl.cooc.icu, port: 26881, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: hk.tro.first.cooc.icu, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-1 - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
+- {name: 🇹🇼 TW-2 - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}

@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: ChatGPT专属节点 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 60779, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
+- {name: 🇮🇳 印度 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 30258, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
+- {name: 🇹🇷 土耳其 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 19333, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
+- {name: 🇧🇷 巴西 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 65390, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
+- {name: 🇰🇷 韩国 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 64261, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}

@@ -1,0 +1,37 @@
+name: get_trial.py
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0/5 0 * * *'
+permissions: write-all
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      DDAL_EMAIL: ${{ secrets.DDAL_EMAIL }}
+      DDAL_PASSWORD: ${{ secrets.DDAL_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Prepare
+        run: pip install requests beautifulsoup4 ruamel.yaml json5
+      - name: Run get_trial.py
+        run: python get_trial.py
+      - name: Commit
+        id: commit
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add .
+          git commit -m "${{ github.workflow }} https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          git pull --rebase
+      - uses: ad-m/github-push-action@master
+        if: ${{ steps.commit.outcome == 'success' }}
+      - name: Run get_trial_update_url.py
+        run: python get_trial_update_url.py

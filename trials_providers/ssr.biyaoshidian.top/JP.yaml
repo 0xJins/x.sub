@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 - 独孤乐天, server: jp-2.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS2 *3 IPv6 - 独孤乐天, server: jp6-2.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 - 独孤乐天, server: nhk-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS6 *3 IPv6 - 独孤乐天, server: nhk6-1.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS4 *5 - 独孤乐天, server: nhk-4.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 CS5 *5 - 独孤乐天, server: nhk-5.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 kagoya *3 - 独孤乐天, server: jp-4.biyaoshidian.top, port: 5061, type: vmess, uuid: 121cfc0a-89a5-3cdf-9b71-73445c413c33, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}

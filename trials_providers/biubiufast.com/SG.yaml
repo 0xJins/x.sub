@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32001, type: ss, cipher: chacha20-ietf-poly1305, password: cd627261-f616-46fd-86fa-14d2900623d2, udp: true}
+- {name: 🇸🇬 新加坡 | 高速（会员） - BIUBIU FAST, server: zhe-c.crazys.shop, port: 32104, type: trojan, password: cd627261-f616-46fd-86fa-14d2900623d2, sni: xj6.biubiufast.quest, skip-cert-verify: true, udp: true}

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵东京-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 29011, type: ss, cipher: chacha20-ietf-poly1305, password: 69670540-5947-4d93-8cdc-1ddab15842a3, udp: true}
+- {name: 🇯🇵东京-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 38611, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

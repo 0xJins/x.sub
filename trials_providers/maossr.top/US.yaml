@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国 洛杉矶｜隧道 01 - 爱猫论坛, server: sahng7.594888.xyz, port: 36014, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶｜隧道 02 - 爱猫论坛, server: sahng3.594888.xyz, port: 36015, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 直连1 - 爱猫论坛, server: maous1.wzgmail.com, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: maous1.wzgmail.com}}, udp: true}
+- {name: 🇺🇸 美国 直连2 - 爱猫论坛, server: maous2.wzgmail.com, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: maous2.wzgmail.com}}, udp: true}
+- {name: 🇺🇸 美国 直连3 - 爱猫论坛, server: maous3.wzgmail.com, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous3.wzgmail.com}}, udp: true}
+- {name: 🇺🇸 美国 直连4 - 爱猫论坛, server: maous4.wzgmail.com, port: 31235, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk3, headers: {Host: maous4.wzgmail.com}}, udp: true}

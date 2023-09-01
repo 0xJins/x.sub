@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 🇨🇳台湾IPV6-直连 - 青花瓷云qhcy.cc, server: twv6.q5wrff7jtkdg23.top, port: 13058, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

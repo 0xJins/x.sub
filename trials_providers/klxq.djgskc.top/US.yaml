@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国1 - 快乐星球, server: 2x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: c638522b-37ee-4a05-8162-58e92fd11cdd, udp: true}
+- {name: 🇺🇸 美国2 - 快乐星球, server: 1.5x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: c638522b-37ee-4a05-8162-58e92fd11cdd, udp: true}
+- {name: 🇺🇸 美国3 - 快乐星球, server: 1x.turn.catscloud.top, port: 22221, type: ss, cipher: aes-128-gcm, password: c638522b-37ee-4a05-8162-58e92fd11cdd, udp: true}

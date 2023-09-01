@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：28 天 - FastFly, server: gzdx.jcnode.top, port: 43000, type: trojan, password: 018c3e72-8468-413a-8d7f-b2a67cc4d627, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: '快飞永久跳转地址: https://fastfly.club - FastFly', server: gzdx.jcnode.top, port: 43000, type: trojan, password: 018c3e72-8468-413a-8d7f-b2a67cc4d627, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
