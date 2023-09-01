@@ -131,7 +131,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/vpiv.app/HK.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/vpiv.app/HK.yaml
     interval: 180
     path: trials_providers/vpiv.app/HK.yaml
     health-check:
@@ -140,7 +140,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/vpiv.app/TW.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/vpiv.app/TW.yaml
     interval: 180
     path: trials_providers/vpiv.app/TW.yaml
     health-check:
@@ -149,7 +149,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/vpiv.app/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/vpiv.app/JP.yaml
     interval: 180
     path: trials_providers/vpiv.app/JP.yaml
     health-check:
@@ -158,7 +158,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/vpiv.app/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/vpiv.app/US.yaml
     interval: 180
     path: trials_providers/vpiv.app/US.yaml
     health-check:
@@ -167,7 +167,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/vpiv.app/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/vpiv.app/Other.yaml
     interval: 180
     path: trials_providers/vpiv.app/Other.yaml
     health-check:
@@ -4109,6 +4109,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

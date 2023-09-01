@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 10-US-华东 - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
-- {name: 🇺🇸 11-US-华北 - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
-- {name: 🇺🇸 12-US-华南 - 小白云, server: usa3.iepl.cooc.icu, port: 33881, type: ss, cipher: aes-256-gcm, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, udp: true}
-- {name: 🇺🇸 13-US-备用 - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: trojan, password: 60affe2e-70fd-4824-8d53-00c1bf473d81, sni: us.tro.first.cooc.icu, skip-cert-verify: true, udp: true}

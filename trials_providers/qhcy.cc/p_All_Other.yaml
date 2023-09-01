@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇦🇪迪拜-中转 - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 15282, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转A - 青花瓷云qhcy.cc, server: zjyd8bq.wutao7.top, port: 10211, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转B - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 16597, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转C - 青花瓷云qhcy.cc, server: wdtxfg1842sfr.gaosugo.top, port: 17133, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷首尔-中转D - 青花瓷云qhcy.cc, server: sdzbfji53a.gaosugo.top, port: 11483, type: vmess, uuid: 69670540-5947-4d93-8cdc-1ddab15842a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

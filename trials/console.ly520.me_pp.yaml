@@ -104,7 +104,7 @@ proxy-groups:
 proxy-providers:
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/console.ly520.me/SG.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/console.ly520.me/SG.yaml
     interval: 180
     path: trials_providers/console.ly520.me/SG.yaml
     health-check:
@@ -113,7 +113,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/console.ly520.me/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/console.ly520.me/JP.yaml
     interval: 180
     path: trials_providers/console.ly520.me/JP.yaml
     health-check:
@@ -122,7 +122,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/console.ly520.me/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/console.ly520.me/US.yaml
     interval: 180
     path: trials_providers/console.ly520.me/US.yaml
     health-check:
@@ -131,7 +131,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/console.ly520.me/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/console.ly520.me/Other.yaml
     interval: 180
     path: trials_providers/console.ly520.me/Other.yaml
     health-check:
@@ -4073,6 +4073,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

@@ -11,13 +11,11 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -27,7 +25,6 @@ proxy-groups:
   tolerance: 50
   use: &id001
   - HK
-  - SG
   - JP
   - US
   - Other
@@ -58,10 +55,8 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -76,25 +71,20 @@ proxy-groups:
   tolerance: 50
   use: &id002
   - HK
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 50
-  use: &id003
-  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
-  use: &id004
+  use: &id003
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id005
+  use: &id004
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id005
   - Other
 - name: 👆🏻 ‍指定
   type: select
@@ -102,40 +92,28 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  use: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id004
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id005
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id006
+  use: *id005
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/HK.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/HK.yaml
     interval: 180
     path: trials_providers/biubiufast.com/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/SG.yaml
-    interval: 180
-    path: trials_providers/biubiufast.com/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/JP.yaml
     interval: 180
     path: trials_providers/biubiufast.com/JP.yaml
     health-check:
@@ -144,7 +122,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/US.yaml
     interval: 180
     path: trials_providers/biubiufast.com/US.yaml
     health-check:
@@ -153,7 +131,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/biubiufast.com/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/biubiufast.com/Other.yaml
     interval: 180
     path: trials_providers/biubiufast.com/Other.yaml
     health-check:
@@ -4095,6 +4073,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

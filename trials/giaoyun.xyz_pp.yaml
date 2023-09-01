@@ -13,12 +13,14 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
@@ -28,6 +30,7 @@ proxy-groups:
   use: &id001
   - HK
   - TW
+  - SG
   - JP
   - US
 - name: 🛩️ ‍墙内
@@ -60,9 +63,11 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -88,15 +93,20 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇯🇵 ‍日本
+- name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 50
   use: &id005
+  - SG
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 50
+  use: &id006
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id007
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -110,16 +120,19 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id005
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id007
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/HK.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/HK.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/HK.yaml
     health-check:
@@ -128,16 +141,25 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/TW.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/TW.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/SG.yaml
+    interval: 180
+    path: trials_providers/giaoyun.xyz/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/JP.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/JP.yaml
     health-check:
@@ -146,7 +168,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/giaoyun.xyz/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/US.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/US.yaml
     health-check:
@@ -4088,6 +4110,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

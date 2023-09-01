@@ -36,7 +36,6 @@ proxy-groups:
   - JP
   - US
   - p_All_Other
-  - p_All_CN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -99,7 +98,6 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-  - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 50
@@ -147,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/HK.yaml
     interval: 180
     path: trials_providers/HK.yaml
     health-check:
@@ -156,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/TW.yaml
     interval: 180
     path: trials_providers/TW.yaml
     health-check:
@@ -165,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/SG.yaml
     interval: 180
     path: trials_providers/SG.yaml
     health-check:
@@ -174,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/JP.yaml
     interval: 180
     path: trials_providers/JP.yaml
     health-check:
@@ -183,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/US.yaml
     interval: 180
     path: trials_providers/US.yaml
     health-check:
@@ -192,18 +190,9 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/p_All_Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/p_All_Other.yaml
     interval: 180
     path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_CN.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -4143,6 +4132,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

@@ -109,14 +109,14 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network, server: tw1.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.enuotime.com}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network, server: tw2.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.enuotime.com}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20230218 - Kangaroo✦Network, server: tw3.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: b0a5acb0-0a8e-4bf1-92a4-32948f264975, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20230218 - Kangaroo✦Network, server: au1.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network, server: tw1.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network, server: tw2.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20230218 - Kangaroo✦Network, server: tw3.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.enuotime.com}}, udp: true}
+- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
+- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
+- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
+- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: 365e8e51-20d1-4fb0-835d-2d1be22b0974, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -4052,6 +4052,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

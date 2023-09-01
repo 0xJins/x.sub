@@ -145,7 +145,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/HK.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/HK.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/HK.yaml
     health-check:
@@ -154,7 +154,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/TW.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/TW.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/TW.yaml
     health-check:
@@ -163,7 +163,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/SG.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/SG.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/SG.yaml
     health-check:
@@ -172,7 +172,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/JP.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/JP.yaml
     health-check:
@@ -181,7 +181,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/US.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/US.yaml
     health-check:
@@ -190,7 +190,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/fastestcloud.xyz/p_All_Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/p_All_Other.yaml
     interval: 180
     path: trials_providers/fastestcloud.xyz/p_All_Other.yaml
     health-check:
@@ -4132,6 +4132,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞

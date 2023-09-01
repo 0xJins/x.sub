@@ -24,7 +24,7 @@ proxy-groups:
   use: &id001
   - TW
   - JP
-  - p_All_Other
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,7 +77,7 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id004
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -93,7 +93,7 @@ proxy-groups:
 proxy-providers:
   TW:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/kan.gar.ooo/TW.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/TW.yaml
     interval: 180
     path: trials_providers/kan.gar.ooo/TW.yaml
     health-check:
@@ -102,18 +102,18 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/kan.gar.ooo/JP.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/JP.yaml
     interval: 180
     path: trials_providers/kan.gar.ooo/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/appengine8848/sub/main/trials_providers/kan.gar.ooo/p_All_Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/Other.yaml
     interval: 180
-    path: trials_providers/kan.gar.ooo/p_All_Other.yaml
+    path: trials_providers/kan.gar.ooo/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -4053,6 +4053,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
