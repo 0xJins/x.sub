@@ -162,18 +162,18 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 62311, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 51131, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本2 - giao云, server: 89jp.ljydw.top, port: 23139, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 89jp.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡2 - giao云, server: 822sg9.ljydw.top, port: 29431, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822sg9.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本5 - giao云, server: 822jp12.ljydw.top, port: 62432, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822jp12.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本6 - giao云, server: 822jp15.ljydw.top, port: 33433, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 822jp15.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 - giao云, server: 86sg.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 86sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, client-fingerprint: chrome, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, tfo: false, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 62311, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 51131, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本2 - giao云, server: 89jp.ljydw.top, port: 23139, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 89jp.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡2 - giao云, server: 822sg9.ljydw.top, port: 29431, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822sg9.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本5 - giao云, server: 822jp12.ljydw.top, port: 62432, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822jp12.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本6 - giao云, server: 822jp15.ljydw.top, port: 33433, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 822jp15.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 - giao云, server: 805tw.ljydw.top, port: 44331, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 805tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 - giao云, server: 625tw.ljydw.top, port: 80, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 625tw.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 - giao云, server: 86sg.ljydw.top, port: 443, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 86sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - giao云, server: 86us3.ljydw.top, port: 443, type: trojan, password: 2d46d1b0-f4f0-4ca8-99d9-5c92ff069cde, sni: 86us3.ljydw.top, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
