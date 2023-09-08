@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network, server: tw1.enuotime.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.enuotime.com}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network, server: tw2.enuotime.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.enuotime.com}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20230218 - Kangaroo✦Network, server: tw3.enuotime.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20230218 - Kangaroo✦Network, server: tw1.enuotime.com, port: 443, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20230218 - Kangaroo✦Network, server: tw2.enuotime.com, port: 443, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.enuotime.com}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20230218 - Kangaroo✦Network, server: tw3.enuotime.com, port: 443, type: vmess, uuid: 45ae6947-704d-46f6-ad39-ba3aaaa66c96, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.enuotime.com}}, udp: true}
