@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：19 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: abbee1e7-32e9-4900-a552-e953b697efa4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇷🇴罗马尼亚 🆗「 卢戈日」 - 北方航空, server: gercdn.bh8189.eu.org, port: 2052, type: vmess, uuid: abbee1e7-32e9-4900-a552-e953b697efa4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /eurro, headers: {Host: eurro.galenet.online}}, udp: true}
-- {name: 🇷🇴罗马尼亚 🌐 - 北方航空, server: rozl.bfyun.eu.org, port: 2087, type: vmess, uuid: abbee1e7-32e9-4900-a552-e953b697efa4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eurro.galenet.online, network: grpc, grpc-opts: {grpc-service-name: eurro.galenet.online}, udp: true}
+- {name: 距离下次重置剩余：19 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 77bf8d80-e404-4eca-b0ba-f0d6effc81a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 🇷🇴罗马尼亚 🆗「 卢戈日」 - 北方航空, server: gercdn.bh8189.eu.org, port: 2052, type: vmess, uuid: 77bf8d80-e404-4eca-b0ba-f0d6effc81a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /eurro, headers: {Host: eurro.galenet.online}}, udp: true}
+- {name: 🇷🇴罗马尼亚 🌐 - 北方航空, server: rozl.bfyun.eu.org, port: 2087, type: vmess, uuid: 77bf8d80-e404-4eca-b0ba-f0d6effc81a0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: eurro.galenet.online, network: grpc, grpc-opts: {grpc-service-name: eurro.galenet.online}, udp: true}
