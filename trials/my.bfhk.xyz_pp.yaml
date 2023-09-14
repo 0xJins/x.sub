@@ -10,18 +10,15 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 50
   use: &id001
-  - US
-  - p_All_Other
+  - All
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -43,9 +40,7 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
@@ -56,40 +51,32 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 50
-  use: &id002
-  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
-  use: &id003
-  - p_All_Other
+  use: &id002
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id003
+  use: *id002
 proxy-providers:
-  US:
+  All:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/my.bfhk.xyz/US.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/my.bfhk.xyz/All.yaml
     interval: 180
-    path: trials_providers/my.bfhk.xyz/US.yaml
+    path: trials_providers/my.bfhk.xyz/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/my.bfhk.xyz/p_All_Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/my.bfhk.xyz/Other.yaml
     interval: 180
-    path: trials_providers/my.bfhk.xyz/p_All_Other.yaml
+    path: trials_providers/my.bfhk.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
