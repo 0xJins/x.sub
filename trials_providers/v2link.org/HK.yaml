@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - 极速 A - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
-- {name: 🇭🇰 香港 - 极速 B - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
-- {name: 🇭🇰 香港 - 极速 C - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
-- {name: 🇭🇰 香港 - 极速 D - V2Link VPN, server: host-004.crazyspeed.xyz, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
-- {name: 🇭🇰 香港 - 极速 E - V2Link VPN, server: host-005.crazyspeed.xyz, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
-- {name: 🇭🇰 香港 - 极速 F - V2Link VPN, server: host-006.crazyspeed.xyz, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 4d8cd23f-f596-4795-b93d-3a8ac2c2018f, udp: true}
+- {name: 🇭🇰 香港 - 极速 A - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}
+- {name: 🇭🇰 香港 - 极速 B - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}
+- {name: 🇭🇰 香港 - 极速 C - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}
+- {name: 🇭🇰 香港 - 极速 D - V2Link VPN, server: host-004.crazyspeed.xyz, port: 30504, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}
+- {name: 🇭🇰 香港 - 极速 E - V2Link VPN, server: host-005.crazyspeed.xyz, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}
+- {name: 🇭🇰 香港 - 极速 F - V2Link VPN, server: host-006.crazyspeed.xyz, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 88026a89-3f74-4e0e-a674-6ad2b7ad0a43, udp: true}

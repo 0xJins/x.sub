@@ -13,14 +13,14 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -28,8 +28,8 @@ proxy-groups:
   use: &id001
   - HK
   - TW
-  - SG
   - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -58,12 +58,12 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -88,16 +88,16 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  tolerance: 50
-  use: &id005
-  - SG
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id005
   - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 50
+  use: &id006
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -110,10 +110,10 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id005
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🎏 ‍其他
   type: select
   use: *id006
 proxy-providers:
@@ -135,20 +135,20 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/SG.yaml
-    interval: 180
-    path: trials_providers/giaoyun.xyz/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
   US:
     type: http
     url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/US.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/Other.yaml
+    interval: 180
+    path: trials_providers/giaoyun.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
