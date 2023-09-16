@@ -176,11 +176,17 @@ rules:
 - DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
