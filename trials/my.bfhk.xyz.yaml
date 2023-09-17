@@ -69,10 +69,10 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：13 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 4b8688e5-1c1d-4fc4-b454-43394f222bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 4b8688e5-1c1d-4fc4-b454-43394f222bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 4b8688e5-1c1d-4fc4-b454-43394f222bbc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
-- {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 4b8688e5-1c1d-4fc4-b454-43394f222bbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：13 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: c237d9f4-7590-48f9-bde1-f2e0fac93c97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: c237d9f4-7590-48f9-bde1-f2e0fac93c97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: c237d9f4-7590-48f9-bde1-f2e0fac93c97, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
+- {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: c237d9f4-7590-48f9-bde1-f2e0fac93c97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
