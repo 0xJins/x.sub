@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 A - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, udp: true}
-- {name: 🇸🇬 新加坡 B - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, udp: true}
-- {name: 🇸🇬 新加坡 C - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, udp: true}
+- {name: 🇸🇬 新加坡 A - V2Link VPN, server: host-031.crazyspeed.xyz, port: 10351, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 B - V2Link VPN, server: host-032.crazyspeed.xyz, port: 10352, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 C - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c5a51289-02d2-46f2-b6fe-5ba76a740a58, tfo: false, udp: true}
