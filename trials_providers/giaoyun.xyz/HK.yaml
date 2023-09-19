@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49312, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 59139, type: trojan, password: 34c33070-8a39-44d5-a897-1cda6189e748, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线1-奈飞-TK - giao云, server: zx.fr99kt.top, port: 12895, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 98hk.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线2 - giao云, server: 91zx.ljydw.top, port: 21112, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 910hk02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港专线3 - giao云, server: 91zx.ljydw.top, port: 21115, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 911hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - giao云, server: 822sg.ljydw.top, port: 443, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 822sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 822sg2.ljydw.top, port: 443, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 822sg2.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港3 - giao云, server: 822hk3.ljydw.top, port: 49312, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 822hk3.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港5 - giao云, server: 822hk6.ljydw.top, port: 59139, type: trojan, password: 6311f621-0067-4d9c-bf22-103480a114bd, sni: 822hk6.ljydw.top, skip-cert-verify: true, udp: true}
