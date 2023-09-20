@@ -1,20 +1,20 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国 - 首尔 R - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇰🇷 韩国 - 首尔 X - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇰🇷 韩国 - 春川 R - V2Link VPN, server: host-028.crazyspeed.xyz, port: 21008, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇻🇳 越南 - 河内 A - V2Link VPN, server: host-029.crazyspeed.xyz, port: 21009, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇲🇾 马来西亚 - 吉隆坡 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇨🇦 加拿大 - 多伦多 A - V2Link VPN, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇬🇧 英国 - 伦敦 A - V2Link VPN, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇩🇪 德国 - 法兰克福 A - V2Link VPN, server: host-045.crazyspeed.xyz, port: 34901, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇫🇷 法国 - 巴黎 - V2Link VPN, server: host-047.crazyspeed.xyz, port: 34903, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇮🇹 意大利 - 米兰 - V2Link VPN, server: host-048.crazyspeed.xyz, port: 34904, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇪🇸 西班牙 - 马德里 - V2Link VPN, server: host-049.crazyspeed.xyz, port: 34905, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇳🇱 荷兰 - 阿姆斯特丹 - V2Link VPN, server: host-050.crazyspeed.xyz, port: 34906, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇦🇺 澳大利亚 - 悉尼 - V2Link VPN, server: host-051.crazyspeed.xyz, port: 20061, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇧🇷 巴西 - 圣保罗 - V2Link VPN, server: host-052.crazyspeed.xyz, port: 20062, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇮🇳 印度 - 孟买 - V2Link VPN, server: host-053.crazyspeed.xyz, port: 10911, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇪🇺 欧洲 - 土耳其 - V2Link VPN, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
-- {name: 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, udp: true}
+- {name: 🇰🇷 韩国 - 首尔 R - V2Link VPN, server: host-026.crazyspeed.xyz, port: 21006, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇰🇷 韩国 - 首尔 X - V2Link VPN, server: host-027.crazyspeed.xyz, port: 21007, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇰🇷 韩国 - 春川 R - V2Link VPN, server: host-028.crazyspeed.xyz, port: 21008, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇻🇳 越南 - 河内 A - V2Link VPN, server: host-029.crazyspeed.xyz, port: 21009, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇲🇾 马来西亚 - 吉隆坡 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇨🇦 加拿大 - 多伦多 A - V2Link VPN, server: host-041.crazyspeed.xyz, port: 16015, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇬🇧 英国 - 伦敦 A - V2Link VPN, server: host-043.crazyspeed.xyz, port: 34401, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇩🇪 德国 - 法兰克福 A - V2Link VPN, server: host-045.crazyspeed.xyz, port: 34901, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇫🇷 法国 - 巴黎 - V2Link VPN, server: host-047.crazyspeed.xyz, port: 34903, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇮🇹 意大利 - 米兰 - V2Link VPN, server: host-048.crazyspeed.xyz, port: 34904, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇪🇸 西班牙 - 马德里 - V2Link VPN, server: host-049.crazyspeed.xyz, port: 34905, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇳🇱 荷兰 - 阿姆斯特丹 - V2Link VPN, server: host-050.crazyspeed.xyz, port: 34906, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇦🇺 澳大利亚 - 悉尼 - V2Link VPN, server: host-051.crazyspeed.xyz, port: 20061, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇧🇷 巴西 - 圣保罗 - V2Link VPN, server: host-052.crazyspeed.xyz, port: 20062, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇮🇳 印度 - 孟买 - V2Link VPN, server: host-053.crazyspeed.xyz, port: 10911, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇪🇺 欧洲 - 土耳其 - V2Link VPN, server: host-055.crazyspeed.xyz, port: 19001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
+- {name: 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN, server: host-056.crazyspeed.xyz, port: 19002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0b7657b4-44ae-4c86-a97a-4a15774d8751, tfo: false, udp: true}
