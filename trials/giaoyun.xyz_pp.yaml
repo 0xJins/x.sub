@@ -13,12 +13,14 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -28,6 +30,7 @@ proxy-groups:
   use: &id001
   - HK
   - TW
+  - JP
   - US
   - Other
 - name: 🛩️ ‍墙内
@@ -62,8 +65,10 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -88,15 +93,20 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇺🇸 ‍美国
+- name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 50
   use: &id005
+  - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 50
+  use: &id006
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 50
-  use: &id006
+  use: &id007
   - Other
 - name: 👆🏻 ‍指定
   type: select
@@ -110,12 +120,15 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id006
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id007
 proxy-providers:
   HK:
     type: http
@@ -131,6 +144,15 @@ proxy-providers:
     url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/TW.yaml
     interval: 180
     path: trials_providers/giaoyun.xyz/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/giaoyun.xyz/JP.yaml
+    interval: 180
+    path: trials_providers/giaoyun.xyz/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
