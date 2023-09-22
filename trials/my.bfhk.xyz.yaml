@@ -61,7 +61,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 距离下次重置剩余：9 天 - 北方航空
+  - 距离下次重置剩余：8 天 - 北方航空
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -69,7 +69,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：9 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: ff31b61b-dfd5-47f8-973f-a35f55541f57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：8 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: ff31b61b-dfd5-47f8-973f-a35f55541f57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: ff31b61b-dfd5-47f8-973f-a35f55541f57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: ff31b61b-dfd5-47f8-973f-a35f55541f57, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
 - {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: ff31b61b-dfd5-47f8-973f-a35f55541f57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
