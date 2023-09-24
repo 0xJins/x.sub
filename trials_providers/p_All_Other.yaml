@@ -148,27 +148,27 @@ proxies:
 - {name: 🇦🇪 阿联酋 - 迪拜 - V2Link VPN, server: host-054.crazyspeed.xyz, port: 20071, type: ss, cipher: chacha20-ietf-poly1305, password: 2d0cce4a-6615-41c7-a0ec-9521fa0363d1, udp: true}
 - {name: 🇪🇺 欧洲 - 土耳其 - V2Link VPN, server: host-055.crazyspeed.xyz, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 2d0cce4a-6615-41c7-a0ec-9521fa0363d1, udp: true}
 - {name: 🇪🇺 欧洲 - 罗马尼亚 - V2Link VPN, server: host-056.crazyspeed.xyz, port: 19002, type: ss, cipher: chacha20-ietf-poly1305, password: 2d0cce4a-6615-41c7-a0ec-9521fa0363d1, udp: true}
-- {name: 🇻🇳 vip1 越南-01-SS - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇻🇳 vip1 越南-02-SS - FastFly, server: gzyd.jcnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇻🇳 vip1 越南-03-SS - FastFly, server: gzdx01.jcnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-01-SS - FastFly, server: gzdx.jcnode.top, port: 45175, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-02-SS - FastFly, server: gzyd.jcnode.top, port: 10515, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-03-SS - FastFly, server: gzdx01.jcnode.top, port: 53991, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇮🇳 vip1 印度-01-SS - FastFly, server: gzdx.jcnode.top, port: 37169, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇮🇳 vip1 印度-02-SS - FastFly, server: gzyd.jcnode.top, port: 25997, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇮🇳 vip1 印度-03-SS - FastFly, server: gzdx01.jcnode.top, port: 19975, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-01-SS - FastFly, server: gzdx.jcnode.top, port: 23319, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-02-SS - FastFly, server: gzyd.jcnode.top, port: 61163, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-03-SS - FastFly, server: gzdx01.jcnode.top, port: 20922, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇹🇷 vip1 土耳其-01-SS - FastFly, server: gzdx.jcnode.top, port: 37115, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇹🇷 vip1 土耳其-02-SS - FastFly, server: gzyd.jcnode.top, port: 27048, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇹🇷 vip1 土耳其-03-SS - FastFly, server: gzdx01.jcnode.top, port: 22254, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇩🇪 vip1 德国-01-SS - FastFly, server: gzdx.jcnode.top, port: 14562, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇩🇪 vip1 德国-02-SS - FastFly, server: gzyd.jcnode.top, port: 62506, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇩🇪 vip1 德国-03-SS - FastFly, server: gzdx01.jcnode.top, port: 33912, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇬🇧 vip1 英国-01-SS - FastFly, server: gzdx.jcnode.top, port: 21781, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇬🇧 vip1 英国-02-SS - FastFly, server: gzyd.jcnode.top, port: 40788, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
-- {name: 🇬🇧 vip1 英国-03-SS - FastFly, server: gzdx01.jcnode.top, port: 65117, type: ss, cipher: chacha20-ietf-poly1305, password: c5a0350f-c0d8-4b9c-852f-14d1c0412519, udp: true}
+- {name: 🇻🇳 vip1 越南-01-SS - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇻🇳 vip1 越南-02-SS - FastFly, server: gzyd.jcnode.top, port: 33534, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇻🇳 vip1 越南-03-SS - FastFly, server: gzdx01.jcnode.top, port: 23761, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-01-SS - FastFly, server: gzdx.jcnode.top, port: 45175, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-02-SS - FastFly, server: gzyd.jcnode.top, port: 10515, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇲🇾 vip1 马来西亚-03-SS - FastFly, server: gzdx01.jcnode.top, port: 53991, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇮🇳 vip1 印度-01-SS - FastFly, server: gzdx.jcnode.top, port: 37169, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇮🇳 vip1 印度-02-SS - FastFly, server: gzyd.jcnode.top, port: 25997, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇮🇳 vip1 印度-03-SS - FastFly, server: gzdx01.jcnode.top, port: 19975, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇦🇺 vip1 澳大利亚-01-SS - FastFly, server: gzdx.jcnode.top, port: 23319, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇦🇺 vip1 澳大利亚-02-SS - FastFly, server: gzyd.jcnode.top, port: 61163, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇦🇺 vip1 澳大利亚-03-SS - FastFly, server: gzdx01.jcnode.top, port: 20922, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇹🇷 vip1 土耳其-01-SS - FastFly, server: gzdx.jcnode.top, port: 37115, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇹🇷 vip1 土耳其-02-SS - FastFly, server: gzyd.jcnode.top, port: 27048, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇹🇷 vip1 土耳其-03-SS - FastFly, server: gzdx01.jcnode.top, port: 22254, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇩🇪 vip1 德国-01-SS - FastFly, server: gzdx.jcnode.top, port: 14562, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇩🇪 vip1 德国-02-SS - FastFly, server: gzyd.jcnode.top, port: 62506, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇩🇪 vip1 德国-03-SS - FastFly, server: gzdx01.jcnode.top, port: 33912, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇬🇧 vip1 英国-01-SS - FastFly, server: gzdx.jcnode.top, port: 21781, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇬🇧 vip1 英国-02-SS - FastFly, server: gzyd.jcnode.top, port: 40788, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
+- {name: 🇬🇧 vip1 英国-03-SS - FastFly, server: gzdx01.jcnode.top, port: 65117, type: ss, cipher: chacha20-ietf-poly1305, password: d7ca3ae2-1e3f-4308-b35a-b699c47b7d28, udp: true}
 - {name: 🇩🇪 JCBB_德国01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 15431, type: trojan, password: bb173ae8-c75d-441f-b7ce-ac720b584da5, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国02【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 16525, type: trojan, password: bb173ae8-c75d-441f-b7ce-ac720b584da5, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 JCBB_德国03【vip1】 - JCBB, server: gzdx.jcnode.top, port: 33830, type: trojan, password: bb173ae8-c75d-441f-b7ce-ac720b584da5, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -200,9 +200,9 @@ proxies:
 - {name: 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛, server: 120.195.181.54, port: 36009, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国｜隧道 01 - 爱猫论坛, server: sahng5.594888.xyz, port: 36016, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国｜隧道 01 - 爱猫论坛, server: sahng1.594888.xyz, port: 36017, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 81314001-7112-4bb5-a3e5-d798f1477bfd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 81314001-7112-4bb5-a3e5-d798f1477bfd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 81314001-7112-4bb5-a3e5-d798f1477bfd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 9066b96f-da47-4b75-b282-5e215c195b75, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 9066b96f-da47-4b75-b282-5e215c195b75, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 9066b96f-da47-4b75-b282-5e215c195b75, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 3d12283465.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 3d12283465.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国03-标准 - AyucLouD-Services, server: 201201level3.unclemanco.com, port: 913, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 3d12283465.download.windowsupdate.com}, udp: true}
