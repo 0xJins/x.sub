@@ -1,7 +1,7 @@
 [maossr.top]
 name  爱猫论坛
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(kugppjs112@gmail.com): 未开放注册。
+更新订阅链接/续费续签失败  注册失败(uubkorl167@gmail.com): 未开放注册。
 
 [ayucloud.services]
 auth_path  user
@@ -18,7 +18,7 @@ time  2023-09-24 09:07:02.765563+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(locykqsaj221@tmail.ws): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  注册失败(hkianujy991@tmpmail.net): 邮箱后缀已被拉黑
 
 [kan.gar.ooo]
 buy  period=month_price&plan_id=1
@@ -26,19 +26,19 @@ email  ldypmrvn382@freedom
 email_domain  freedom
 name  Kangaroo✦Network
 node_n  8
-sub_info  45.06M  2G  2023-10-20 08:51:25+08:00  (剩余 1.956G 23 days, 23:59:26.777934)
+sub_info  45.09M  2G  2023-10-20 08:51:25+08:00  (剩余 1.956G 23 days, 23:10:18.964038)
 sub_url  https://go.daishuvpn.win/api/v1/client/subscribe?token=6bfccae0e38fb40d6f6dee92da710067
 time  2023-09-20 08:51:25.950028+08:00
 type  v2board
 
 [console.ly520.me]
 buy  pass
-email  aqjxlwo961@gmail.com
+email  pjectew460@gmail.com
 name  凌云网络
 node_n  11
-sub_info  0B  1G  2023-09-26 09:52:04+08:00  (剩余 1G 0:59:56.694872)
-sub_url  https://console.ly520.me/api/v1/client/subscribe?token=0985559e72898c22c2358e14760451b1
-time  2023-09-26 08:52:05.358055+08:00
+sub_info  0B  1G  2023-09-26 10:41:03+08:00  (剩余 1G 0:59:56.639185)
+sub_url  https://console.ly520.me/api/v1/client/subscribe?token=c75dbc581eabd13e09fd72d9f7585fa6
+time  2023-09-26 09:41:03.486981+08:00
 type  v2board
 
 [sockboom.link]
@@ -49,7 +49,7 @@ email  jxwkppp870@tmails.net
 last_checkin  2023-09-26 08:52:10.913675+08:00
 name  SockBoom
 node_n  56
-sub_info  0B  1.082G  2023-09-27 08:52:10+08:00  (剩余 1.082G 23:59:53.653465)
+sub_info  0B  1.082G  2023-09-27 08:52:10+08:00  (剩余 1.082G 23:11:04.008598)
 sub_url  https://sockboom.me/link/IoR2Yc1zxQFi97x1?mu=1
 time  2023-09-26 08:52:12.806656+08:00
 type  sspanel
@@ -61,7 +61,7 @@ email  vtleaczs314@gmail.com
 last_checkin  2023-09-26 08:52:00.349505+08:00
 name  Cyanmori
 node_n  32
-sub_info  0B  1.183G  2023-09-26 14:52:00+08:00  (剩余 1.183G 5:59:55.106524)
+sub_info  0B  1.183G  2023-09-26 14:52:00+08:00  (剩余 1.183G 5:10:58.764448)
 sub_url  https://link2.cccc.gg/link/mTNPu6z0cUP3srzy?clash=1
 time  2023-09-26 08:52:01.760028+08:00
 type  sspanel
@@ -71,7 +71,7 @@ buy  pass
 email  lyarcsvm563@gmail.com
 name  JCBB
 node_n  53
-sub_info  0B  1G  2023-09-27 08:52:08+08:00  (剩余 1G 23:59:54.312773)
+sub_info  0B  1G  2023-09-27 08:52:08+08:00  (剩余 1G 23:09:06.101332)
 sub_url  https://sub1.ckcloud.shop:21600/api/v1/client/subscribe?token=bb290b1200bcd57ffdbac87512b7c496
 time  2023-09-26 08:52:09.229457+08:00
 type  v2board
@@ -81,7 +81,7 @@ buy  pass
 email  xhytltnp249@gmail.com
 name  FastFly
 node_n  60
-sub_info  0B  1G  2023-09-27 08:52:01+08:00  (剩余 1G 23:59:10.874807)
+sub_info  0B  1G  2023-09-27 08:52:01+08:00  (剩余 1G 23:10:59.012146)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=f0eee29b8904fc8df78e1ec4c07a4b48
 time  2023-09-26 08:52:02.225968+08:00
 type  v2board
@@ -91,7 +91,7 @@ buy  pass
 email  altqadft82@gmail.com
 name  BIUBIU FAST 加速器
 node_n  10
-sub_info  0B  1G  2023-09-27 08:52:02+08:00  (剩余 1G 23:59:57.187670)
+sub_info  0B  1G  2023-09-27 08:52:02+08:00  (剩余 1G 23:11:01.046995)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=058b4cb3480a3c18bf2838da67cda325
 time  2023-09-26 08:52:03.138824+08:00
 type  v2board
@@ -111,27 +111,28 @@ type  v2board
 auto_invite  F
 banned_domains  tmails.net  moakt.ws
 buy  pass
-email  fvtswzran605@gmail.com
-last_checkin  2023-09-26 08:54:13.802148+08:00
+email  uhphexho419@gmail.com
+last_checkin  2023-09-26 09:45:48.537273+08:00
 name  西瓜皮是真的皮
-sub_url  https://go.xiguasuyun.com/link/aBHjnJ1LBbcDnMyj?sub=3
-time  2023-09-26 08:54:15.524076+08:00
+sub_url  https://go.xiguasuyun.com/link/0s9xuvYEcjk7WbrF?sub=3
+time  2023-09-26 09:45:50.300867+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 
 [iqiaqia.xyz]
 auto_invite  F
-banned_domains  smartnator.com  femailtor.com  disbox.org  XDANAE.COM
+banned_domains  smartnator.com  femailtor.com  disbox.org  XDANAE.COM  linshiyou.com
 buy  shop=21
 email  lzeolcz523@teml.net
 last_checkin  2023-09-26 08:51:55.215174+08:00
 name  恰恰- 有情怀的Ai加速服务商
 node_n  57
-sub_info  0B  1.126G  2023-09-26 09:45:53+08:00  (剩余 1.126G 0:53:54.229584)
+sub_info  350.6K  1.126G  2023-09-26 09:45:53+08:00  (剩余 1.126G 0:03:48.436969)
 sub_url  https://1122331.xyz/link/3BjxP6rpCvxy87wY?sub=3
 time  2023-09-25 09:45:54.166743+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(uyikzfxwa772@linshiyou.com)
 
 [mgnet.vip]
 auto_invite  F
@@ -140,28 +141,28 @@ email  ddwsnrs725@gmail.com
 last_checkin  2023-09-26 08:51:55.219331+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.883G  2023-09-27 09:45:48+08:00  (剩余 5.883G 1 day, 0:53:49.052445)
+sub_info  0B  5.883G  2023-09-27 09:45:48+08:00  (剩余 5.883G 1 day, 0:02:45.270735)
 sub_url  https://www.mgnet.sbs/link/uPWGt8ptXDOXh28d?sub=3
 time  2023-09-25 09:45:48.850358+08:00
 type  sspanel
 
 [cryxr.xyz]
-banned_domains  wxiaobao.cyou  disbox.org  tmpnator.live  bccto.cc  psnator.com  oxuzn.icu  mydefipet.live  femailtor.com  moakt.co  tmails.net  guerrillamail.org  end.tw  139.telemail.tk  lyx13.xyz  xxxhi.cc  tmpeml.com  dijingka.com  jkd.tmmad.com  futuramind.com  trx365.org  smartnator.com  spam4.me  grr.la  coolxyz.top  snapmail.cc  nqmo.com  tmpmail.org  tmpmail.net  lista.cc  guerrillamail.de  maladi.top  xdanae.com  moakt.cc  jkb.tmmad.com  youxiang.dev  qabq.com  teml.net  guerrillamail.net  yzm.de  hackertales.com  fc2023888.com  sharklasers.com  missac.cc  tmail.ws  guerrillamail.com  linshiyou.com  www.trx365.org  moakt.ws  longshan.bond  guerrillamail.biz
+banned_domains  wxiaobao.cyou  disbox.org  tmpnator.live  bccto.cc  psnator.com  oxuzn.icu  mydefipet.live  femailtor.com  moakt.co  tmails.net  guerrillamail.org  end.tw  139.telemail.tk  lyx13.xyz  xxxhi.cc  tmpeml.com  dijingka.com  jkd.tmmad.com  futuramind.com  trx365.org  smartnator.com  spam4.me  grr.la  coolxyz.top  snapmail.cc  nqmo.com  tmpmail.org  tmpmail.net  lista.cc  guerrillamail.de  maladi.top  xdanae.com  moakt.cc  jkb.tmmad.com  youxiang.dev  qabq.com  teml.net  guerrillamail.net  yzm.de  hackertales.com  fc2023888.com  sharklasers.com  missac.cc  tmail.ws  guerrillamail.com  linshiyou.com  www.trx365.org  moakt.ws  longshan.bond  guerrillamail.biz  bareed.ws
 name  探索者
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(efpulzv463@guerrillamail.biz)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(jrgfygsn972@bareed.ws)
 
 [vpiv.app]
 auto_invite  F
 banned_domains  psnator.com  femailtor.com
 buy  pass
-email  hjogaewnb213@mail.wvwvw.tech
-last_checkin  2023-09-26 08:52:58.821897+08:00
+email  echojyiu155@mail.wvwvw.tech
+last_checkin  2023-09-26 09:41:10.578638+08:00
 name  糖果
 node_n  60
-sub_info  0B  1.036G  2023-09-26 09:52:58+08:00  (剩余 1.036G 0:59:55.726304)
-sub_url  https://sub1.itg.best:30443/link/HmAGWsZnQVimq1Ug?sub=1
-time  2023-09-26 08:52:59.155887+08:00
+sub_info  0B  1.078G  2023-09-26 10:41:10+08:00  (剩余 1.078G 0:59:56.539143)
+sub_url  https://sub1.itg.best:30443/link/xuPkQgaPHaL2B6TU?sub=1
+time  2023-09-26 09:41:10.872810+08:00
 type  sspanel
 
 [ziyun.cyou]
@@ -171,7 +172,7 @@ email  lifhgidbq496@nqmo.com
 last_checkin  2023-09-26 08:51:55.223441+08:00
 name  紫云VPN服务商
 node_n  221
-sub_info  259.6K  5.673G  2023-09-27 09:07:11+08:00  (剩余 5.673G 1 day, 0:15:12.104810)
+sub_info  268.1K  5.673G  2023-09-27 09:07:11+08:00  (剩余 5.673G 23:26:09.400287)
 sub_url  https://us.ziyun.cyou/link/uXlWmpIw2j3D9Bsj?clash=1
 time  2023-09-24 09:07:12.880654+08:00
 type  sspanel
@@ -184,13 +185,14 @@ sub_url  https://01.laomao1.xyz/api/v1/client/subscribe?token=41c821c829e9d93c0f
 time  2023-09-26 08:53:10.093793+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新旧订阅失败  HTTPSConnectionPool(host='lm.laomaoyun.me', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f122894f490>, 'Connection to lm.laomaoyun.me timed out. (connect timeout=30)'))
 
 [my.bfhk.xyz]
 buy  pass
 email  pwfavhjfy547@snapmail.cc
 name  北方航空
 node_n  4
-sub_info  0B  20G  2023-09-27 09:41:38+08:00  (剩余 20G 1 day, 0:49:39.059005)
+sub_info  0B  20G  2023-09-27 09:41:38+08:00  (剩余 20G 1 day, 0:00:29.969237)
 sub_url  https://connect.bh8189.eu.org/api/v1/client/subscribe?token=3270e8f9471ece2085ae9790ed4f1599
 time  2023-09-25 09:41:38.551060+08:00
 type  v2board
@@ -200,7 +202,7 @@ buy  period=month_price&plan_id=24
 email  yrmmkunkf790@coolxyz.top
 name  Kako Cloud
 node_n  5
-sub_info  437.6M  1T  2023-10-01 09:54:55+08:00  (剩余 1024G 5 days, 1:02:57.033493)
+sub_info  437.6M  1T  2023-10-01 09:54:55+08:00  (剩余 1024G 5 days, 0:13:53.270332)
 sub_url  https://store.kakocloud.pro/api/v1/client/subscribe?token=485c859e9460f72f24331dde6b800787
 time  2023-09-01 09:54:56.513586+08:00
 type  v2board
@@ -211,7 +213,7 @@ buy  pass
 email  lllyvgx969@bccto.cc
 name  V2Link VPN
 node_n  38
-sub_info  0B  1G  2023-10-03 08:52:51+08:00  (剩余 1G 6 days, 23:59:58.400155)
+sub_info  0B  1G  2023-10-03 08:52:51+08:00  (剩余 1G 6 days, 23:11:49.441026)
 sub_url  https://sub.bee-v2link.top/api/v1/client/subscribe?token=88f97545ae592d0c661142e54c93c1a5
 time  2023-09-26 08:52:51.623372+08:00
 type  v2board
