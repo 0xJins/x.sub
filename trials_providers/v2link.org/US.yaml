@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 C - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 R - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, udp: true}
+- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 C - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 R - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a51c34c4-bca1-4a88-8e3d-0c42f59d9a49, tfo: false, udp: true}
