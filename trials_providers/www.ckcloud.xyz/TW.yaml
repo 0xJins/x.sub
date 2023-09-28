@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 42149, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 45540, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55345, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 24448, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, client-fingerprint: chrome, type: trojan, password: 816294d6-e099-42a7-89c7-4d505b07ef2d, tfo: false, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 42149, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzdx.jcnode.top, port: 45540, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 55345, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB, server: gzdx01.jcnode.top, port: 24448, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 61413, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 22084, type: trojan, password: c60e880b-73b3-4ddb-ac4c-d4be783679dd, sni: rctw02.ckcloud.info, skip-cert-verify: true, udp: true}
