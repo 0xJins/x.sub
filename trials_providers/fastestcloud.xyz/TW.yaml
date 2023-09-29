@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01-SS - FastFly, server: gzdx.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
-- {name: 🇹🇼 vip1 台湾-02-SS - FastFly, server: gzyd.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
-- {name: 🇹🇼 vip1 台湾-03-SS - FastFly, server: gzdx01.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
-- {name: 🇹🇼 vip1 台湾-06-SS - FastFly, server: gzdx.jcnode.top, port: 29574, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
-- {name: 🇹🇼 vip1 台湾-07-SS - FastFly, server: gzyd.jcnode.top, port: 64759, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
-- {name: 🇹🇼 vip1 台湾-08-SS - FastFly, server: gzdx01.jcnode.top, port: 26065, type: ss, cipher: chacha20-ietf-poly1305, password: aaf3c091-511f-4aaf-9c32-075f7b9302df, udp: true}
+- {name: 🇹🇼 vip1 台湾-01-SS - FastFly, server: gzdx.jcnode.top, port: 22225, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}
+- {name: 🇹🇼 vip1 台湾-02-SS - FastFly, server: gzyd.jcnode.top, port: 46957, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}
+- {name: 🇹🇼 vip1 台湾-03-SS - FastFly, server: gzdx01.jcnode.top, port: 24007, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}
+- {name: 🇹🇼 vip1 台湾-06-SS - FastFly, server: gzdx.jcnode.top, port: 29574, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}
+- {name: 🇹🇼 vip1 台湾-07-SS - FastFly, server: gzyd.jcnode.top, port: 64759, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}
+- {name: 🇹🇼 vip1 台湾-08-SS - FastFly, server: gzdx01.jcnode.top, port: 26065, type: ss, cipher: chacha20-ietf-poly1305, password: 5ebe7111-8221-423e-a6df-a838a1f6a1a5, udp: true}

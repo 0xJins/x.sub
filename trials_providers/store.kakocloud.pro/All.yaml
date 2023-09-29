@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 中秋&国庆双节活动开启！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: f59aed88-b6e3-4240-9e7e-be7a04b31741, udp: true}
 - {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: f59aed88-b6e3-4240-9e7e-be7a04b31741, udp: true}
 - {name: 🇸🇬 新加坡 01 - Kako Cloud, server: free.node.kk-proxy.pro, port: 24961, type: ss, cipher: chacha20-ietf-poly1305, password: f59aed88-b6e3-4240-9e7e-be7a04b31741, udp: true}
 - {name: 🇸🇬 新加坡 02 - Kako Cloud, server: free.node.kk-proxy.pro, port: 24962, type: ss, cipher: chacha20-ietf-poly1305, password: f59aed88-b6e3-4240-9e7e-be7a04b31741, udp: true}

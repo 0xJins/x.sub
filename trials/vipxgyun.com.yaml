@@ -15,6 +15,7 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
@@ -22,6 +23,7 @@ proxy-groups:
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -30,20 +32,21 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港04 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮
-  - 🇸🇬 B新加坡01 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇸🇬 B新加坡02 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇸🇬 B新加坡03 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇯🇵 日本 | 隧道 | 1X |  - 西瓜皮是真的皮
-  - ChatGPT专属节点 - 西瓜皮是真的皮
-  - 🇮🇳 印度 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇧🇷 巴西 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇰🇷 韩国 | 隧道 | 1X | - 西瓜皮是真的皮
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
+  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
+  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
+  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
+  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
+  - 🇫🇷 法国 1 - 西瓜皮是真的皮
+  - 🇩🇪 德国 1 - 西瓜皮是真的皮
+  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
+  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -71,7 +74,9 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
@@ -94,55 +99,61 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港04 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id003
-  - 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮
+  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id004
-  - 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇭🇰 A香港04 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id005
-  - 🇸🇬 B新加坡01 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇸🇬 B新加坡02 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
-  - 🇸🇬 B新加坡03 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id006
-  - 🇯🇵 日本 | 隧道 | 1X |  - 西瓜皮是真的皮
-- name: 🎏 ‍其他
+  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
+  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
+- name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 50
   proxies: &id007
-  - ChatGPT专属节点 - 西瓜皮是真的皮
-  - 🇮🇳 印度 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇹🇷 土耳其 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇧🇷 巴西 | 隧道 | 1X | - 西瓜皮是真的皮
-  - 🇰🇷 韩国 | 隧道 | 1X | - 西瓜皮是真的皮
+  - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
+  - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 50
+  proxies: &id008
+  - 🇫🇷 法国 1 - 西瓜皮是真的皮
+  - 🇩🇪 德国 1 - 西瓜皮是真的皮
+  - 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
+  - 🇹🇷 土耳其 1 - 西瓜皮是真的皮
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -161,24 +172,28 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇭🇰 A香港01 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 44034, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
-- {name: 🇭🇰 A香港02 | 直连 | 奈飞解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 18682, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
-- {name: 🇭🇰 A香港03 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 60778, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
-- {name: 🇭🇰 A香港04 | 隧道 | 奈飞解锁 | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 53055, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
-- {name: 🇸🇬 B新加坡01 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao4.vipxgyun.com, port: 38686, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao4.vipxgyun.com}}, udp: true}
-- {name: 🇸🇬 B新加坡02 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao4.vipxgyun.com, port: 10932, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao4.vipxgyun.com}}, udp: true}
-- {name: 🇸🇬 B新加坡03 | 隧道 | 2X | ChatGPT解锁 - 西瓜皮是真的皮, server: suidao4.vipxgyun.com, port: 55893, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao4.vipxgyun.com}}, udp: true}
-- {name: ChatGPT专属节点 - 西瓜皮是真的皮, server: suidao2.vipxgyun.com, port: 60779, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao2.vipxgyun.com}}, udp: true}
-- {name: 🇮🇳 印度 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 30258, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
-- {name: 🇹🇼 台湾 | YouTube免广告 | Tiktok  | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 17518, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
-- {name: 🇹🇷 土耳其 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 19333, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
-- {name: 🇧🇷 巴西 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 65390, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
-- {name: 🇯🇵 日本 | 隧道 | 1X |  - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 30449, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
-- {name: 🇰🇷 韩国 | 隧道 | 1X | - 西瓜皮是真的皮, server: suidao3.vipxgyun.com, port: 64261, type: vmess, uuid: c9aa555b-4840-37ca-afe6-2ea29a831a62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ny, headers: {Host: suidao3.vipxgyun.com}}, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19811, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19812, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19821, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19822, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19831, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19832, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19841, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19842, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19861, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: ct1-xg.go001.buzz, port: 19862, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19892, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19891, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19883, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19882, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其 1 - 西瓜皮是真的皮, server: cm1-xg.go001.buzz, port: 19881, type: vmess, uuid: bf98ac32-e314-34c7-a108-14abc8a60d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -217,11 +232,17 @@ rules:
 - DOMAIN-SUFFIX,kgithub.com,DIRECT
 - DOMAIN,raw.me.cd,🛩️ ‍墙内
 - DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -7184,9 +7205,6 @@ rules:
 - DOMAIN-SUFFIX,hao123img.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jomodns.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battle.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,battlenet.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,blizzard.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amemv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguaimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bdxiguastatic.com,🛩️ ‍墙内
