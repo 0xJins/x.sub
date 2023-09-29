@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 9a899edb-1cb6-4c53-af5f-9f77fcb2a8c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：1 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 1e3b0bfe-6a40-4d07-9a29-391e1710a04f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
