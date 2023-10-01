@@ -35,7 +35,7 @@ proxy-groups:
   - SG
   - JP
   - US
-  - Other
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -117,7 +117,7 @@ proxy-groups:
   type: url-test
   tolerance: 50
   use: &id008
-  - Other
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -188,11 +188,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
+  p_All_Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/p_All_Other.yaml
     interval: 180
-    path: trials_providers/fastestcloud.xyz/Other.yaml
+    path: trials_providers/fastestcloud.xyz/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -239,6 +239,9 @@ rules:
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
 - DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,j.7.cr,🛩️ ‍墙内
+- DOMAIN,sc.7.cr,🛩️ ‍墙内
+- DOMAIN,raw.7.cr,🛩️ ‍墙内
 - DOMAIN,note.7.cr,🛩️ ‍墙内
 - DOMAIN,dd.al,🛩️ ‍墙内
 - DOMAIN,all.bz,🛩️ ‍墙内
