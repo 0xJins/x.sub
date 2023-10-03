@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 - 新北 A - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
-- {name: 🇹🇼 台湾 - 彰化 B - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 家宽 A - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 彰化 B - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}

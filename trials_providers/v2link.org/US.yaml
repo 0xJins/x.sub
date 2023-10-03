@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 C - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
-- {name: 🇺🇸 美国 - 圣何塞 R - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 53a7d1bc-6cea-4fd7-86fa-278197e434d4, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 堪萨斯 A - V2Link VPN, server: host-036.crazyspeed.xyz, port: 16010, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 A - V2Link VPN, server: host-037.crazyspeed.xyz, port: 16011, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 B - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 C - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 圣何塞 R - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 608cbbc1-52bd-4b1c-aa21-80c8a3d086a4, tfo: false, udp: true}

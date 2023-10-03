@@ -124,16 +124,16 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: d7d30059-cc94-4e9b-b4ae-fbc6ee6832ee, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 3c893b3e-3433-4888-8db9-8061d38793cd, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c893b3e-3433-4888-8db9-8061d38793cd, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: 3c893b3e-3433-4888-8db9-8061d38793cd, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: 3c893b3e-3433-4888-8db9-8061d38793cd, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: 3c893b3e-3433-4888-8db9-8061d38793cd, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -169,9 +169,7 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
@@ -1854,7 +1852,6 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞

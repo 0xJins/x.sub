@@ -129,9 +129,7 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
@@ -1814,7 +1812,6 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞

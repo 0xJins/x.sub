@@ -61,7 +61,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 距离下次重置剩余：29 天 - 北方航空
+  - 距离下次重置剩余：28 天 - 北方航空
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -69,7 +69,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：29 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 73458a23-20d9-433a-801f-9fbafc2f8f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：28 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 73458a23-20d9-433a-801f-9fbafc2f8f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 73458a23-20d9-433a-801f-9fbafc2f8f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 73458a23-20d9-433a-801f-9fbafc2f8f1f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
 - {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 73458a23-20d9-433a-801f-9fbafc2f8f1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
@@ -108,9 +108,7 @@ rules:
 - DOMAIN-SUFFIX,zte.home,DIRECT
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
-- DOMAIN-SUFFIX,kgithub.com,DIRECT
-- DOMAIN,raw.me.cd,🛩️ ‍墙内
-- DOMAIN,sc.me.cd,🛩️ ‍墙内
+- DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,ghraw.eu.org,🛩️ ‍墙内
 - DOMAIN-SUFFIX,scmx.eu.org,🛩️ ‍墙内
 - DOMAIN,3.7.cr,🛩️ ‍墙内
@@ -1793,7 +1791,6 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,ai.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
