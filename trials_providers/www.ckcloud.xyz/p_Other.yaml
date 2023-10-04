@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：28 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 3351d7f4-43d9-4c12-bad3-839b002bd4ac, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：27 天 - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 3351d7f4-43d9-4c12-bad3-839b002bd4ac, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzdx.jcnode.top, port: 17022, type: trojan, password: 3351d7f4-43d9-4c12-bad3-839b002bd4ac, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
