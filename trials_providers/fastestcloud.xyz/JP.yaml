@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01-SS - FastFly, server: gzdx.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
-- {name: 🇯🇵 vip1 日本-02-SS - FastFly, server: gzyd.jcnode.top, port: 59090, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
-- {name: 🇯🇵 vip1 日本-03-SS - FastFly, server: gzdx01.jcnode.top, port: 34948, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
-- {name: 🇯🇵 vip1 日本-06-SS - FastFly, server: gzdx.jcnode.top, port: 55718, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
-- {name: 🇯🇵 vip1 日本-07-SS - FastFly, server: gzyd.jcnode.top, port: 28397, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
-- {name: 🇯🇵 vip1 日本-08-SS - FastFly, server: gzdx01.jcnode.top, port: 53958, type: ss, cipher: chacha20-ietf-poly1305, password: 1709edd5-e6cf-4308-91c1-293eaefbe9d5, udp: true}
+- {name: 🇯🇵 vip1 日本-01-SS - FastFly, server: gzdx.jcnode.top, port: 29223, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-02-SS - FastFly, server: gzyd.jcnode.top, port: 59090, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-03-SS - FastFly, server: gzdx01.jcnode.top, port: 34948, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-06-SS - FastFly, server: gzdx.jcnode.top, port: 55718, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-07-SS - FastFly, server: gzyd.jcnode.top, port: 28397, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-08-SS - FastFly, server: gzdx01.jcnode.top, port: 53958, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 0e04a6ed-2954-4b40-bd58-24df6a3e6083, tfo: false, udp: true}
