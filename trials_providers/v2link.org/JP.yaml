@@ -6,3 +6,4 @@ proxies:
 - {name: 🇯🇵 日本 - 东京 A - V2Link VPN, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 26e737b6-7006-46e5-8ee9-6b1e7cf32bac, udp: true}
 - {name: 🇯🇵 日本 - 东京 B - V2Link VPN, server: host-014.crazyspeed.xyz, port: 30604, type: ss, cipher: chacha20-ietf-poly1305, password: 26e737b6-7006-46e5-8ee9-6b1e7cf32bac, udp: true}
 - {name: 🇯🇵 日本 - 东京 C - V2Link VPN, server: host-015.crazyspeed.xyz, port: 30605, type: ss, cipher: chacha20-ietf-poly1305, password: 26e737b6-7006-46e5-8ee9-6b1e7cf32bac, udp: true}
+- {name: 🇯🇵 日本 - 东京 D - V2Link VPN, server: host-016.crazyspeed.xyz, port: 30606, type: ss, cipher: chacha20-ietf-poly1305, password: 26e737b6-7006-46e5-8ee9-6b1e7cf32bac, udp: true}
