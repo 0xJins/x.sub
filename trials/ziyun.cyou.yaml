@@ -56,8 +56,7 @@ proxy-groups:
   - 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP CDN - 紫云VPN服务商
   - 🇬🇧 v2ray 英国伦敦节点VIP 349 - 紫云VPN服务商
   - 🇬🇧 v2ray 英国伦敦节点VIP A-CDN - 紫云VPN服务商
-  - 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商
-  - 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商
+  - 🇳🇱 v2ray 阿姆斯特丹节点VIP TEST - 紫云VPN服务商
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -138,8 +137,7 @@ proxy-groups:
   - 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP CDN - 紫云VPN服务商
   - 🇬🇧 v2ray 英国伦敦节点VIP 349 - 紫云VPN服务商
   - 🇬🇧 v2ray 英国伦敦节点VIP A-CDN - 紫云VPN服务商
-  - 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商
-  - 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商
+  - 🇳🇱 v2ray 阿姆斯特丹节点VIP TEST - 紫云VPN服务商
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -150,18 +148,18 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: v2ray 中东巴林节点VIP 671 - 紫云VPN服务商, server: 172.64.195.161, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: baa.369777.xyz}}, udp: true}
-- {name: v2ray 中东巴林节点VIP CDN - 紫云VPN服务商, server: zdb.258777.xyz, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: zdb.258777.xyz}}, udp: true}
+- {name: v2ray 中东巴林节点VIP 671 - 紫云VPN服务商, server: 172.64.195.161, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
+- {name: v2ray 中东巴林节点VIP CDN - 紫云VPN服务商, server: bla.369777.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: bla.369777.xyz}}, udp: true}
 - {name: 🇿🇦 v2ray 南非开普敦节点VIP 720 - 紫云VPN服务商, server: 104.17.17.103, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: kpd.369777.xyz}}, udp: true}
 - {name: 🇿🇦 v2ray 南非开普敦节点VIP CDN - 紫云VPN服务商, server: kpd.369777.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: kpd.369777.xyz}}, udp: true}
-- {name: 🇿🇦 v2ray 南非约翰内斯堡节点VIP 536 - 紫云VPN服务商, server: 104.27.11.9, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: yhh.258777.xyz}}, udp: true}
-- {name: 🇿🇦 v2ray 南非约翰内斯堡节点VIP CDN - 紫云VPN服务商, server: fyb.258777.xyz, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fyb.258777.xyz}}, udp: true}
-- {name: 🇫🇷 v2ray 法国兰斯节点VIP 112 - 紫云VPN服务商, server: 104.18.242.176, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: sxs.369777.xyz}}, udp: true}
-- {name: 🇫🇷 v2ray 法国兰斯节点VIP CDN - 紫云VPN服务商, server: sxs.369777.xyz, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: sxs.369777.xyz}}, udp: true}
-- {name: 🇫🇷 v2ray 法国巴黎节点VIP 180 - 紫云VPN服务商, server: 104.25.54.230, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: aww.369777.xyz}}, udp: true}
-- {name: 🇫🇷 v2ray 法国巴黎节点VIP CDN - 紫云VPN服务商, server: iib.258777.xyz, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: iib.258777.xyz}}, udp: true}
-- {name: 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP 566 - 紫云VPN服务商, server: 104.18.28.5, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: rrd.258777.xyz}}, udp: true}
-- {name: 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP CDN - 紫云VPN服务商, server: rud.369777.xyz, port: 80, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: rud.369777.xyz}}, udp: true}
+- {name: 🇿🇦 v2ray 南非约翰内斯堡节点VIP 536 - 紫云VPN服务商, server: 104.27.11.9, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: anf.369777.xyz}}, udp: true}
+- {name: 🇿🇦 v2ray 南非约翰内斯堡节点VIP CDN - 紫云VPN服务商, server: anf.369777.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: anf.369777.xyz}}, udp: true}
+- {name: 🇫🇷 v2ray 法国兰斯节点VIP 112 - 紫云VPN服务商, server: 104.18.242.176, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fls.997755.xyz}}, udp: true}
+- {name: 🇫🇷 v2ray 法国兰斯节点VIP CDN - 紫云VPN服务商, server: fls.997755.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fls.997755.xyz}}, udp: true}
+- {name: 🇫🇷 v2ray 法国巴黎节点VIP 180 - 紫云VPN服务商, server: 104.25.54.230, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fbl.369777.xyz}}, udp: true}
+- {name: 🇫🇷 v2ray 法国巴黎节点VIP CDN - 紫云VPN服务商, server: fbl.369777.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fbl.369777.xyz}}, udp: true}
+- {name: 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP 566 - 紫云VPN服务商, server: 104.18.28.5, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: rsd.369777.xyz}}, udp: true}
+- {name: 🇸🇪 v2ray 瑞典斯德哥尔摩节点VIP CDN - 紫云VPN服务商, server: rsd.369777.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: rsd.369777.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国俄勒冈节点VIP 581 - 紫云VPN服务商, server: 104.20.67.86, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: elg.997755.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国俄勒冈节点VIP CDN - 紫云VPN服务商, server: elg.997755.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: elg.997755.xyz}}, udp: true}
 - {name: 🇺🇸 v2ray 美国凤凰城节点VIP 556 - 紫云VPN服务商, server: 104.19.26.183, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: fhc.997755.xyz}}, udp: true}
@@ -184,8 +182,7 @@ proxies:
 - {name: 🇺🇸 v2ray 美国阿什本节点VIP B-CDN - 紫云VPN服务商, server: aab.997755.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: aab.997755.xyz}}, udp: true}
 - {name: 🇬🇧 v2ray 英国伦敦节点VIP 349 - 紫云VPN服务商, server: 104.17.48.156, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: xuk.997755.xyz}}, udp: true}
 - {name: 🇬🇧 v2ray 英国伦敦节点VIP A-CDN - 紫云VPN服务商, server: xuk.997755.xyz, port: 443, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: xuk.997755.xyz}}, udp: true}
-- {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP 170 - 紫云VPN服务商, server: 104.18.147.250, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
-- {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP CDN - 紫云VPN服务商, server: sma.258777.xyz, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: sma.258777.xyz}}, udp: true}
+- {name: 🇳🇱 v2ray 阿姆斯特丹节点VIP TEST - 紫云VPN服务商, server: 104.18.147.250, port: 8080, type: vmess, uuid: 27e65978-a081-3da9-818d-5e3d00e27d22, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /wwwnet, headers: {Host: ams.369777.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
