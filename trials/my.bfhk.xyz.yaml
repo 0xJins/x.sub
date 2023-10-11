@@ -20,9 +20,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id001
-  - 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空
-  - 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空
-  - 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空
+  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -61,7 +59,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 距离下次重置剩余：26 天 - 北方航空
+  - 距离下次重置剩余：20 天 - 北方航空
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -69,10 +67,8 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：26 天 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 08798211-ef2b-4938-9a65-73036c2101bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🆗「拉斯维加斯」 - 北方航空, server: js.bfyun.eu.org, port: 2082, type: vmess, uuid: 08798211-ef2b-4938-9a65-73036c2101bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
-- {name: 🇺🇸美国 🌐「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2087, type: vmess, uuid: 08798211-ef2b-4938-9a65-73036c2101bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hostodo.galenet.online, network: grpc, grpc-opts: {grpc-service-name: hostodo.galenet.online}, udp: true}
-- {name: 🇺🇸美国 📽️「拉斯维加斯」 - 北方航空, server: jpcdn.bh8189.eu.org, port: 2082, type: vmess, uuid: 08798211-ef2b-4938-9a65-73036c2101bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hostodo, headers: {Host: hostodo.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：20 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: dff9b5b0-d489-4075-b90f-fea7bf258e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: dff9b5b0-d489-4075-b90f-fea7bf258e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
