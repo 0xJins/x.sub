@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}

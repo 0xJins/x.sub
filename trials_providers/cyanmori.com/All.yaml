@@ -1,35 +1,35 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.susenl.com, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp1.susenl.com, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp1.susenl.com, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp1.susenl.com, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 5rQZoiiz2KssdB4C, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.susenl.com, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk1.susenl.com, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk1.susenl.com, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk1.susenl.com, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk1.susenl.com, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk1.susenl.com, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.susenl.com, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp1.susenl.com, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp1.susenl.com, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp1.susenl.com, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: hk1.susenl.com, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: hk1.susenl.com, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: jp1.susenl.com, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: jp1.susenl.com, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: jp1.susenl.com, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: jp1.susenl.com, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国01 - Cyanmori, server: jp1.susenl.com, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国02 - Cyanmori, server: jp1.susenl.com, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国03 - Cyanmori, server: jp1.susenl.com, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: jp1.susenl.com, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: jp1.susenl.com, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: jp1.susenl.com, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: jp1.susenl.com, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: jp1.susenl.com, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: jp1.susenl.com, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: jp1.susenl.com, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: jp1.susenl.com, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇩🇪 德国柏林01 - Cyanmori, server: jp1.susenl.com, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: jp1.susenl.com, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: jp1.susenl.com, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: jp1.susenl.com, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: jp1.susenl.com, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: JDV3GHcd0ImeCTOW, udp: true}
