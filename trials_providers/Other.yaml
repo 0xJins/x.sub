@@ -3,9 +3,9 @@
 proxies:
 - {name: 域名被屏蔽，先连节点再访问 - giao云, server: 8.8.8.8, port: 22266, type: ss, cipher: chacha20-ietf-poly1305, password: 26026c90-49d9-484b-8763-4431638a3878, udp: true}
 - {name: 🇱🇺 卢森堡专线-奈飞-TK - giao云, server: 91zx.ljydw.top, port: 25559, type: trojan, password: 26026c90-49d9-484b-8763-4431638a3878, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: f2f2037c-2d44-4a99-809c-b69cca0d3c42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: f2f2037c-2d44-4a99-809c-b69cca0d3c42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: f2f2037c-2d44-4a99-809c-b69cca0d3c42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：29 天 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 3f12c145-3f7b-425b-9480-f9a5c9071d5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
 - {name: 🇦🇺 GCP-AU1-20230930 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 3f12c145-3f7b-425b-9480-f9a5c9071d5c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
 - {name: 距离下次重置剩余：10 天 - FastFly, server: gzdx.jcnode.top, port: 24291, type: ss, cipher: chacha20-ietf-poly1305, password: 7f275a0e-f6c0-4a57-b751-aed592ced6e8, udp: true}
