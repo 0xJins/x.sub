@@ -124,16 +124,16 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 5addd5e0-0486-4eff-8861-9ab33036a768, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 5addd5e0-0486-4eff-8861-9ab33036a768, udp: true}
-- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: 5addd5e0-0486-4eff-8861-9ab33036a768, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: 5addd5e0-0486-4eff-8861-9ab33036a768, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: 5addd5e0-0486-4eff-8861-9ab33036a768, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5203, type: trojan, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器, server: jp1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 31001, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35002, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, udp: true}
+- {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32100, type: trojan, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32102, type: trojan, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: tls.biubiufast.quest, port: 32103, type: trojan, password: 82e2afc8-527b-4f91-a4f8-a22769ed6df5, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1999,7 +1999,6 @@ rules:
 - DOMAIN-SUFFIX,6parkbbs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parknews.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,7-zip.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,7capture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,7cow.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,8-d.com,✈️ ‍起飞
@@ -2731,7 +2730,7 @@ rules:
 - DOMAIN-SUFFIX,civilhrfront.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,civiliangunner.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,civisec.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,cjb.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,civitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ck101.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clarionproject.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,classicalguitarblog.net,✈️ ‍起飞
@@ -3597,6 +3596,7 @@ rules:
 - DOMAIN-SUFFIX,goagent.biz,✈️ ‍起飞
 - DOMAIN-SUFFIX,goagentplus.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gobet.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,godaddy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,godfootsteps.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,godns.work,✈️ ‍起飞
 - DOMAIN-SUFFIX,godoc.org,✈️ ‍起飞
@@ -4075,6 +4075,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
@@ -4341,6 +4342,7 @@ rules:
 - DOMAIN-SUFFIX,lfpcontent.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhakar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhasocialwork.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,li.taipei,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangyou.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangzhichuanmei.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lianyue.net,✈️ ‍起飞
@@ -4618,6 +4620,7 @@ rules:
 - DOMAIN-SUFFIX,monar.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,mondex.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,moneyhome.biz,✈️ ‍起飞
+- DOMAIN-SUFFIX,monica.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorchina.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,monlamit.org,✈️ ‍起飞
@@ -5026,7 +5029,6 @@ rules:
 - DOMAIN-SUFFIX,page.link,✈️ ‍起飞
 - DOMAIN-SUFFIX,page.tl,✈️ ‍起飞
 - DOMAIN-SUFFIX,page2rss.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,pages.dev,✈️ ‍起飞
 - DOMAIN-SUFFIX,pagodabox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,palacemoon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,paldengyal.com,✈️ ‍起飞
@@ -7214,6 +7216,18 @@ rules:
 - DOMAIN-SUFFIX,hwccpc.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmall.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmallres.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawnfs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawno.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawntech.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,coloros.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytap.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapcs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapdownload.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapimage.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapmobi.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppoer.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyink.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyrec.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflytek.com,🛩️ ‍墙内
@@ -7494,7 +7508,6 @@ rules:
 - DOMAIN-SUFFIX,onedns.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oneplus.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,onlinedown.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oracle.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oschina.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ourdvs.com,🛩️ ‍墙内

@@ -124,16 +124,16 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: bb2e755c-9d90-380b-9673-74554dcf5236, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.v2-ray.cyou}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.v2-ray.cyou}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.v2-ray.cyou}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 39209364-3b46-33bd-8ba7-de912872aaaa, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.v2-ray.cyou}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1999,7 +1999,6 @@ rules:
 - DOMAIN-SUFFIX,6parkbbs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,6parknews.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,7-zip.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,7capture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,7cow.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,8-d.com,✈️ ‍起飞
@@ -2731,7 +2730,7 @@ rules:
 - DOMAIN-SUFFIX,civilhrfront.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,civiliangunner.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,civisec.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,cjb.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,civitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ck101.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clarionproject.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,classicalguitarblog.net,✈️ ‍起飞
@@ -3597,6 +3596,7 @@ rules:
 - DOMAIN-SUFFIX,goagent.biz,✈️ ‍起飞
 - DOMAIN-SUFFIX,goagentplus.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gobet.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,godaddy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,godfootsteps.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,godns.work,✈️ ‍起飞
 - DOMAIN-SUFFIX,godoc.org,✈️ ‍起飞
@@ -4075,6 +4075,7 @@ rules:
 - DOMAIN-SUFFIX,israbox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,issuu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istars.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,istarshine.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istef.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,istiqlalhewer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,istockphoto.com,✈️ ‍起飞
@@ -4341,6 +4342,7 @@ rules:
 - DOMAIN-SUFFIX,lfpcontent.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhakar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,lhasocialwork.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,li.taipei,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangyou.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,liangzhichuanmei.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lianyue.net,✈️ ‍起飞
@@ -4618,6 +4620,7 @@ rules:
 - DOMAIN-SUFFIX,monar.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,mondex.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,moneyhome.biz,✈️ ‍起飞
+- DOMAIN-SUFFIX,monica.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorchina.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,monitorware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,monlamit.org,✈️ ‍起飞
@@ -5026,7 +5029,6 @@ rules:
 - DOMAIN-SUFFIX,page.link,✈️ ‍起飞
 - DOMAIN-SUFFIX,page.tl,✈️ ‍起飞
 - DOMAIN-SUFFIX,page2rss.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,pages.dev,✈️ ‍起飞
 - DOMAIN-SUFFIX,pagodabox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,palacemoon.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,paldengyal.com,✈️ ‍起飞
@@ -7214,6 +7216,18 @@ rules:
 - DOMAIN-SUFFIX,hwccpc.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmall.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,vmallres.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawnfs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawno.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,allawntech.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,coloros.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytap.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapcs.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapdownload.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapimage.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,heytapmobi.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppoer.me,🛩️ ‍墙内
+- DOMAIN-SUFFIX,oppomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyink.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflyrec.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,iflytek.com,🛩️ ‍墙内
@@ -7494,7 +7508,6 @@ rules:
 - DOMAIN-SUFFIX,onedns.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oneplus.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,onlinedown.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,oppo.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oracle.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,oschina.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ourdvs.com,🛩️ ‍墙内

@@ -1,22 +1,21 @@
 [maossr.top]
 name  爱猫论坛
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sktnfxg117@gmail.com): 未开放注册。
+更新订阅链接/续费续签失败  注册失败(nyxnutmuq312@gmail.com): 未开放注册。
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
 banned_domains  XDANAE.COM  hexv.com
 buy  pass
-email  ktsahcbld805@fc2023888.com
-last_checkin  2023-10-21 08:50:24.305187+08:00
+email  vhyaedeh628@coolxyz.top
+last_checkin  2023-10-22 09:02:46.455628+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  875.7M  1.842G  2023-10-21 09:46:31+08:00  (剩余 1010M 0:09:13.616326)
-sub_url  https://network.ayucloud.nl/link/JxP6umaAVmhJQ1Al?clash=1
-time  2023-10-20 09:46:32.530879+08:00
+sub_info  0B  1.097G  2023-10-23 09:02:45+08:00  (剩余 1.097G 23:59:53.675970)
+sub_url  https://network.ayucloud.nl/link/wd8UKViISMb68k2m?clash=1
+time  2023-10-22 09:02:48.007380+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(crrsgvz219@disbox.net): 邮箱后缀已被拉黑
 
 [kan.gar.ooo]
 buy  period=month_price&plan_id=1
@@ -24,7 +23,7 @@ email  ygahimwxj474@freedom
 email_domain  freedom
 name  Kangaroo✦Network
 node_n  8
-sub_info  2.62M  2G  2023-11-19 08:52:10+08:00  (剩余 1.997G 28 days, 23:15:01.928565)
+sub_info  852.8M  2G  2023-11-19 08:52:10+08:00  (剩余 1.167G 27 days, 23:56:44.547896)
 sub_url  https://go.daishuvpn.win/api/v1/client/subscribe?token=fc2da0c4c950eee82e36184423be61c5
 time  2023-10-19 08:52:10.602481+08:00
 type  v2board
@@ -38,60 +37,61 @@ sub_info  0B  1G  2023-10-21 10:37:35+08:00  (剩余 1G 0:59:55.669705)
 sub_url  https://console.ly520.me/api/v1/client/subscribe?token=60c970c327b7b7651abeabfdf260abc3
 time  2023-10-21 09:37:36.262922+08:00
 type  v2board
+更新旧订阅失败  HTTPSConnectionPool(host='console.ly520.me', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=60c970c327b7b7651abeabfdf260abc3 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'console.ly520.me'. (_ssl.c:1007)")))
 
 [sockboom.link]
 auto_invite  F
 banned_domains  tmpeml.com  XDANAE.COM  tmails.net  kataskopoi.com  hexv.com
 buy  pass
-email  yxlnblp253@guerrillamail.biz
-last_checkin  2023-10-21 08:50:44.106608+08:00
+email  fzceoss863@sharklasers.com
+last_checkin  2023-10-22 09:02:21.291302+08:00
 name  SockBoom
 node_n  56
-sub_info  62.34M  1.402G  2023-10-22 08:50:43+08:00  (剩余 1.341G 23:13:31.291289)
-sub_url  https://sockboom.me/link/uA42Sjft1ZSlPfzk?mu=1
-time  2023-10-21 08:50:45.156747+08:00
+sub_info  0B  1.439G  2023-10-23 09:02:20+08:00  (剩余 1.439G 23:59:54.077857)
+sub_url  https://sockboom.me/link/D4waZR3YlwSqSEOf?mu=1
+time  2023-10-22 09:02:22.102188+08:00
 type  sspanel
 
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  mxpymtv575@gmail.com
-last_checkin  2023-10-21 08:50:34.666826+08:00
+email  kuclmyo882@gmail.com
+last_checkin  2023-10-22 08:55:26.250165+08:00
 name  Cyanmori
 node_n  32
-sub_info  175.7K  1.323G  2023-10-21 14:50:34+08:00  (剩余 1.323G 5:13:25.686788)
-sub_url  https://link2.cccc.gg/link/5PygMg5KFUMrPNk9?clash=1
-time  2023-10-21 08:50:35.961627+08:00
+sub_info  0B  1.297G  2023-10-22 14:55:26+08:00  (剩余 1.297G 5:59:56.691267)
+sub_url  https://link2.cccc.gg/link/0uizH4rEUn9eGs9d?clash=1
+time  2023-10-22 08:55:27.331686+08:00
 type  sspanel
 
 [www.ckcloud.xyz]
 buy  pass
-email  wxuyxvcuj586@gmail.com
+email  bngkwcobp550@gmail.com
 name  JCBB
 node_n  54
-sub_info  245.7K  1G  2023-10-22 08:52:32+08:00  (剩余 1024M 23:15:22.839333)
-sub_url  https://cloud.ckcloud.shop/api/v1/client/subscribe?token=9385dbec9389e627829283580de627f4
-time  2023-10-21 08:52:32.946992+08:00
+sub_info  0B  1G  2023-10-23 08:55:31+08:00  (剩余 1G 23:59:56.827400)
+sub_url  https://sub1.ckcloud.shop:21600/api/v1/client/subscribe?token=c2b7e915adece0883b60c85f28862019
+time  2023-10-22 08:55:32.082631+08:00
 type  v2board
 
 [fastestcloud.xyz]
 buy  pass
-email  afyhjlx949@gmail.com
+email  vthheow830@gmail.com
 name  FastFly
 node_n  57
-sub_info  320.9K  1G  2023-10-22 08:50:35+08:00  (剩余 1024M 23:13:24.571446)
-sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=9725f6db5389d67d4c416cce6680d682
-time  2023-10-21 08:50:35.782596+08:00
+sub_info  0B  1G  2023-10-23 08:55:30+08:00  (剩余 1G 23:59:52.043250)
+sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=914dc96373845ddb507d3c62cf702042
+time  2023-10-22 08:55:30.769868+08:00
 type  v2board
 
 [biubiufast.com]
 buy  pass
-email  qckpunrln741@gmail.com
+email  bslwpursv885@gmail.com
 name  BIUBIU FAST 加速器
 node_n  10
-sub_info  230.1K  1G  2023-10-22 08:50:28+08:00  (剩余 1024M 23:13:18.669479)
-sub_url  https://biubiufast.com/api/v1/client/subscribe?token=9db1910846377e9f929f8b24fdd9702c
-time  2023-10-21 08:50:28.428641+08:00
+sub_info  0B  1G  2023-10-23 08:57:27+08:00  (剩余 1G 23:59:56.971520)
+sub_url  https://biubiufast.com/api/v1/client/subscribe?token=fc0349d1a9a96264a02f7db701fe05c9
+time  2023-10-22 08:57:28.171200+08:00
 type  v2board
 
 [giaoyun.xyz]
@@ -109,13 +109,13 @@ type  v2board
 auto_invite  F
 banned_domains  tmails.net  moakt.ws
 buy  pass
-email  jbmkbuuo186@gmail.com
-last_checkin  2023-10-21 08:57:34.470260+08:00
+email  vpqjvgj442@gmail.com
+last_checkin  2023-10-22 09:05:42.511110+08:00
 name  西瓜皮是真的皮
-node_n  15
-sub_info  80.15K  10.1G  2023-10-21 10:57:34+08:00  (剩余 10.1G 1:20:25.390108)
-sub_url  https://go.xiguasuyun.com/link/O7PfB9h8U6Klkbpd?sub=3
-time  2023-10-21 08:57:36.677946+08:00
+node_n  20
+sub_info  0B  10.1G  2023-10-22 11:05:42+08:00  (剩余 10.1G 1:59:55.250232)
+sub_url  https://go.xiguasuyun.com/link/6WguahPRy4FEPbvW?sub=3
+time  2023-10-22 09:05:44.828324+08:00
 type  sspanel
 
 [iqiaqia.xyz]
@@ -130,19 +130,19 @@ sub_info  0B  1.047G  2023-10-20 08:52:17+08:00  (剩余 1.047G 23:11:03.910865)
 sub_url  https://1122331.xyz/link/jMl6P4IL3KgRQPsX?sub=3
 time  2023-10-19 08:52:18.570288+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>iqiaqia.xyz | 502: Bad gateway</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Bad gateway</span>\n <span class="code-label">Error code 502</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2023-10-21 01:37:05 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Ashburn</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">iqiaqia.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server reported a bad gateway error.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <p class="mb-6">Please try again in a few minutes.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8195c5f6bf3e1fdc</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.57.43.233</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n')
-更新旧订阅失败  (https://iqiaqia.xyz/link/jMl6P4IL3KgRQPsX?sub=3): 502 Bad Gateway '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>iqiaqia.xyz | 502: Bad gateway</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Bad gateway</span>\n <span class="code-label">Error code 502</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2023-10-21 01:40:01 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Ashburn</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">iqiaqia.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server reported a bad gateway error.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <p class="mb-6">Please try again in a few minutes.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8195ca41698f07d3</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.57.43.233</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=iqiaqia.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n'
+尝试签到失败  HTTPSConnectionPool(host='iqiaqia.xyz', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='iqiaqia.xyz', port=443): Max retries exceeded with url: /link/jMl6P4IL3KgRQPsX?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='iqiaqia.xyz', port=443): Read timed out. (read timeout=30)"))
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  gbiszok789@gmail.com
-last_checkin  2023-10-21 08:50:24.317131+08:00
+email  sxozjszif866@gmail.com
+last_checkin  2023-10-22 09:00:58.469494+08:00
 name  MG Network
 node_n  10
-sub_info  897K  5.87G  2023-10-22 08:51:47+08:00  (剩余 5.869G 23:14:39.227731)
-sub_url  https://www.mgnet.sbs/link/3Rpq1GD6fYRbmX9h?sub=3
-time  2023-10-20 08:51:48.098052+08:00
+sub_info  0B  5.553G  2023-10-24 09:00:58+08:00  (剩余 5.553G 1 day, 23:59:52.240087)
+sub_url  https://www.mgnet.sbs/link/KaWN3ZppT9BbD27Z?sub=3
+time  2023-10-22 09:00:58.899399+08:00
 type  sspanel
 
 [cryxr.xyz]
@@ -156,28 +156,28 @@ api_host  vpiv.one
 auto_invite  F
 banned_domains  psnator.com  femailtor.com
 buy  pass
-email  oipmukr668@guerrillamail.biz
-last_checkin  2023-10-21 08:52:49.488811+08:00
+email  ljpxzjq636@tmpeml.com
+last_checkin  2023-10-22 08:55:40.331146+08:00
 name  糖果
 node_n  60
-sub_info  915.7K  1.037G  2023-10-21 09:52:49+08:00  (剩余 1.036G 0:15:32.126550)
-sub_url  https://sub1.itg.best:30443/link/deZ8CaXVZxHJwSka?sub=1
-time  2023-10-21 08:52:49.834209+08:00
+sub_info  0B  1.071G  2023-10-22 09:55:40+08:00  (剩余 1.071G 0:59:54.291583)
+sub_url  https://sub1.itg.best:30443/link/yESXtZa23eWdBxdi?sub=1
+time  2023-10-22 08:55:41.192710+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(komaajr297@bareed.ws): 邮箱后缀已被拉黑
 
 [ziyun.cyou]
 auto_invite  F
-banned_domains  jkd.tmmad.com  disbox.org  hexv.com  moakt.ws
+banned_domains  jkd.tmmad.com  disbox.org  hexv.com  moakt.ws  bareed.ws
 buy  pass
-email  nosxpvwi806@bareed.ws
-last_checkin  2023-10-21 08:50:34.696599+08:00
+email  txcczouv681@www.nm.pe
+last_checkin  2023-10-22 08:55:35.843983+08:00
 name  紫云VPN服务商
 node_n  42
-sub_info  0B  1.283G  2023-10-24 08:50:34+08:00  (剩余 1.283G 2 days, 23:13:25.518911)
-sub_url  https://us.ziyun.cyou/link/3HWhO3x90nESovHG?clash=1
-time  2023-10-21 08:50:35.467610+08:00
+sub_info  0B  288M  2023-10-22 08:55:35+08:00  (剩余 288M -1 day, 23:54:40.618379)
+sub_url  https://us.ziyun.cyou/link/tlC4CteBS5sqaymm?clash=1
+time  2023-10-22 08:55:36.495069+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
 
 [lm.laomaoyun.me]
 email  npqwkwh689@femailtor.com
@@ -187,13 +187,14 @@ sub_url  https://17.laomao1.xyz/api/v1/client/subscribe?token=1ce846fd9a6882ced0
 time  2023-10-21 09:38:31.546624+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qxjuowsrk232@wxiaobao.cyou","success":"false"}'
 
 [my.bfhk.xyz]
 buy  pass
 email  voqbvkgq732@sharklasers.com
 name  北方航空
 node_n  2
-sub_info  0B  20G  2023-10-23 08:50:43+08:00  (剩余 20G 1 day, 23:13:32.419388)
+sub_info  0B  20G  2023-10-23 08:50:43+08:00  (剩余 20G 23:55:17.744367)
 sub_url  https://connect.bh8189.eu.org/api/v1/client/subscribe?token=8ac5499ea920e63aeba8a1c07ad9ff74
 time  2023-10-21 08:50:43.568526+08:00
 type  v2board
@@ -204,7 +205,7 @@ buy  period=month_price&plan_id=24
 email  kbxfcwucc923@guerrillamail.net
 name  Kako Cloud
 node_n  6
-sub_info  29.23M  1T  2023-11-02 08:52:57+08:00  (剩余 1024G 11 days, 23:15:47.758307)
+sub_info  29.28M  1T  2023-11-02 08:52:57+08:00  (剩余 1024G 10 days, 23:57:30.103678)
 sub_url  https://kako.xn--fiq626gzzgkv2a.com/api/v1/client/subscribe?token=fcae6005da8cfea432447077ed7c20b3
 time  2023-10-02 08:52:58.051696+08:00
 type  v2board
@@ -214,8 +215,8 @@ banned_domains  bareed.ws  psnator.com  tmails.net  smartnator.com  fc2023888.co
 buy  pass
 email  gtfajwni762@gmail.com
 name  V2Link VPN
-node_n  41
-sub_info  144.5K  1G  2023-10-28 08:52:37+08:00  (剩余 1024M 6 days, 23:13:25.711348)
+node_n  43
+sub_info  284.6M  1G  2023-10-28 08:52:37+08:00  (剩余 739.4M 5 days, 23:57:10.012852)
 sub_url  https://sub.bee-v2link.top/api/v1/client/subscribe?token=d6fdb4cbaf1e971473ed057f5269718f
 time  2023-10-21 08:52:37.481331+08:00
 type  v2board
