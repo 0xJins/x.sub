@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡01 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: b1542527-1861-4250-9b14-b0737e640fc0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡02 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: b1542527-1861-4250-9b14-b0737e640fc0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡03 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: b1542527-1861-4250-9b14-b0737e640fc0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
-- {name: 🇸🇬 新加坡04 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: b1542527-1861-4250-9b14-b0737e640fc0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
