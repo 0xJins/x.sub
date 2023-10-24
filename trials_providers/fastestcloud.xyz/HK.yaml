@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 45955, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 33487, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-03 - FastFly, server: gzdx01.jcnode.top, port: 64654, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-07 - FastFly, server: gzdx.jcnode.top, port: 59584, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-08 - FastFly, server: gzyd.jcnode.top, port: 37639, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-09 - FastFly, server: gzdx01.jcnode.top, port: 63897, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-13 - FastFly, server: gzdx.jcnode.top, port: 13290, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-14 - FastFly, server: gzyd.jcnode.top, port: 10884, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-15 - FastFly, server: gzdx01.jcnode.top, port: 53271, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-19 - FastFly, server: gzdx.jcnode.top, port: 63279, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-20 - FastFly, server: gzyd.jcnode.top, port: 65407, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
-- {name: 🇭🇰 vip1 香港-21 - FastFly, server: gzdx01.jcnode.top, port: 33310, type: ss, cipher: chacha20-ietf-poly1305, password: 772f614b-f5ad-4b10-9cf7-f8bb87de91f8, udp: true}
+- {name: 🇭🇰 vip1 香港-01 - FastFly, server: gzdx.jcnode.top, port: 45955, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-02 - FastFly, server: gzyd.jcnode.top, port: 33487, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-03 - FastFly, server: gzdx01.jcnode.top, port: 64654, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-07 - FastFly, server: gzdx.jcnode.top, port: 59584, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-08 - FastFly, server: gzyd.jcnode.top, port: 37639, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-09 - FastFly, server: gzdx01.jcnode.top, port: 63897, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-13 - FastFly, server: gzdx.jcnode.top, port: 13290, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-14 - FastFly, server: gzyd.jcnode.top, port: 10884, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-15 - FastFly, server: gzdx01.jcnode.top, port: 53271, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-19 - FastFly, server: gzdx.jcnode.top, port: 63279, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-20 - FastFly, server: gzyd.jcnode.top, port: 65407, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
+- {name: 🇭🇰 vip1 香港-21 - FastFly, server: gzdx01.jcnode.top, port: 33310, type: ss, cipher: chacha20-ietf-poly1305, password: bd225b9b-367a-4645-afef-a64607309415, udp: true}
