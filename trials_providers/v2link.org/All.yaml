@@ -8,8 +8,8 @@ proxies:
 - {name: 🇭🇰 香港 - 极速 E - V2Link VPN, server: host-005.crazyspeed.xyz, port: 30505, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
 - {name: 🇭🇰 香港 - 极速 F - V2Link VPN, server: host-006.crazyspeed.xyz, port: 30506, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
 - {name: 🇭🇰 香港 - 家宽 G - V2Link VPN, server: host-007.crazyspeed.xyz, port: 30507, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
-- {name: 🇭🇰 香港 - 奈飞 K - V2Link VPN, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
-- {name: 🇭🇰 香港 - GPT H - V2Link VPN, server: host-hk-09.v2link.cloud, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
+- {name: 🇭🇰 香港 - Netflix - V2Link VPN, server: host-008.crazyspeed.xyz, port: 30508, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
+- {name: 🇭🇰 香港 - Disney - V2Link VPN, server: host-hk-09.v2link.cloud, port: 30509, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
 - {name: 🇯🇵 日本 - 东京 R - V2Link VPN, server: host-011.crazyspeed.xyz, port: 30601, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
 - {name: 🇯🇵 日本 - 大版 A - V2Link VPN, server: host-012.crazyspeed.xyz, port: 30602, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
 - {name: 🇯🇵 日本 - 东京 A - V2Link VPN, server: host-013.crazyspeed.xyz, port: 30603, type: ss, cipher: chacha20-ietf-poly1305, password: 5797a64a-324a-486e-8c79-d8b0e9b5270b, udp: true}
