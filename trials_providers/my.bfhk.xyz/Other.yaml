@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：29 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 0e955cd8-6df5-45ad-907d-264ef233a963, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
