@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gdct001.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gdct003.jcnode.top, port: 59090, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: gdct002.jcnode.top, port: 34948, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.jcnode.top, port: 55718, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.jcnode.top, port: 28397, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: gdct002.jcnode.top, port: 53958, type: ss, cipher: chacha20-ietf-poly1305, password: f8897bd7-69bd-4290-ab6c-65d0e0744993, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gdct001.jcnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: gdct003.jcnode.top, port: 59090, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: gdct002.jcnode.top, port: 34948, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: gdct001.jcnode.top, port: 55718, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: gdct003.jcnode.top, port: 28397, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: gdct002.jcnode.top, port: 53958, type: ss, cipher: chacha20-ietf-poly1305, password: 2e8b852d-df8d-4b56-8be9-a7857c3ba8b6, udp: true}
