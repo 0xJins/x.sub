@@ -11,7 +11,7 @@ proxies:
 - {name: 距离下次重置剩余：24 天 - JCBB, server: gdct001.jcnode.top, port: 17022, type: trojan, password: c6b60b96-bc5f-4b27-9406-aab439b188a6, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct001.jcnode.top, port: 17022, type: trojan, password: c6b60b96-bc5f-4b27-9406-aab439b188a6, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 新网址：sockboom.id - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 距离下次重置剩余：24 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 103e74ee-058e-4edd-bd12-bb2228518a93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：24 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: c00231e5-c419-4fbc-82c0-d72d484d0eb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 距离下次重置剩余：5 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: 距离下次重置剩余：17 天 - 老猫云, server: cn1.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 1383ea60-0eb3-4ce4-99d0-84ee63bf67e9, udp: true}
