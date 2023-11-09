@@ -59,7 +59,7 @@ proxy-groups:
   interval: 30
   tolerance: 50
   proxies: &id002
-  - 距离下次重置剩余：22 天 - 北方航空
+  - 距离下次重置剩余：21 天 - 北方航空
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -67,7 +67,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 距离下次重置剩余：22 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: dbce03be-b76e-43de-a895-a3ad1f25d1ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：21 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: dbce03be-b76e-43de-a895-a3ad1f25d1ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: dbce03be-b76e-43de-a895-a3ad1f25d1ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
