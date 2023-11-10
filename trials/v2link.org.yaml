@@ -60,13 +60,13 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link VPN
   - 🇺🇸 美国 04 - V2Link VPN
   - 🇺🇸 美国 05 - V2Link VPN
-  - 🇺🇸 美国 06 - V2Link VPN
   - 双11疯狂购物季，全场5折！2023年11月4日-2023年11月11日 - V2Link VPN
   - 🇰🇷 韩国 01 - V2Link VPN
   - 🇰🇷 韩国 02 - V2Link VPN
   - 🇰🇷 韩国 03 - V2Link VPN
   - 🇮🇩 雅加达 - V2Link VPN
   - 🇲🇾 马来西亚 - V2Link VPN
+  - 🇲🇽 墨西哥 - V2Link VPN
   - 🇨🇦 加拿大 - V2Link VPN
   - 🇬🇧 英国 01 - V2Link VPN
   - 🇬🇧 英国 02 - V2Link VPN
@@ -85,6 +85,7 @@ proxy-groups:
   - 🇦🇷 阿根廷 - V2Link VPN
   - 🇮🇱 以色列 - V2Link VPN
   - 🇸🇪 瑞典 - V2Link VPN
+  - 🇵🇱 波兰 - V2Link VPN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -207,7 +208,6 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link VPN
   - 🇺🇸 美国 04 - V2Link VPN
   - 🇺🇸 美国 05 - V2Link VPN
-  - 🇺🇸 美国 06 - V2Link VPN
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -220,6 +220,7 @@ proxy-groups:
   - 🇰🇷 韩国 03 - V2Link VPN
   - 🇮🇩 雅加达 - V2Link VPN
   - 🇲🇾 马来西亚 - V2Link VPN
+  - 🇲🇽 墨西哥 - V2Link VPN
   - 🇨🇦 加拿大 - V2Link VPN
   - 🇬🇧 英国 01 - V2Link VPN
   - 🇬🇧 英国 02 - V2Link VPN
@@ -238,6 +239,7 @@ proxy-groups:
   - 🇦🇷 阿根廷 - V2Link VPN
   - 🇮🇱 以色列 - V2Link VPN
   - 🇸🇪 瑞典 - V2Link VPN
+  - 🇵🇱 波兰 - V2Link VPN
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -297,7 +299,7 @@ proxies:
 - {name: 🇺🇸 美国 03 - V2Link VPN, server: host-038.crazyspeed.xyz, port: 16012, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇺🇸 美国 04 - V2Link VPN, server: host-039.crazyspeed.xyz, port: 16013, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
-- {name: 🇺🇸 美国 06 - V2Link VPN, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
+- {name: 🇲🇽 墨西哥 - V2Link VPN, server: host-042.crazyspeed.xyz, port: 16016, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇨🇦 加拿大 - V2Link VPN, server: host-041.crazyspeed.xyz, port: 16015, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇬🇧 英国 01 - V2Link VPN, server: host-043.crazyspeed.xyz, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇬🇧 英国 02 - V2Link VPN, server: host-044.crazyspeed.xyz, port: 34402, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
@@ -316,6 +318,7 @@ proxies:
 - {name: 🇦🇷 阿根廷 - V2Link VPN, server: host-057.crazyspeed.xyz, port: 19003, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇮🇱 以色列 - V2Link VPN, server: host-058.crazyspeed.xyz, port: 19005, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇸🇪 瑞典 - V2Link VPN, server: host-059.crazyspeed.xyz, port: 19006, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
+- {name: 🇵🇱 波兰 - V2Link VPN, server: host-060.crazyspeed.xyz, port: 19008, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
