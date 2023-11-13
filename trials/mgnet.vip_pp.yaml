@@ -22,7 +22,7 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id001
   - SG
   - JP
@@ -68,22 +68,22 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id002
   - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id003
   - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  tolerance: 50
+  tolerance: 300
   use: &id004
   - US
 - name: 🎏 ‍其他
   type: url-test
-  tolerance: 50
+  tolerance: 100
   use: &id005
   - Other
 - name: 👆🏻 ‍指定
@@ -181,10 +181,9 @@ rules:
 - DOMAIN,j.7.cr,🛩️ ‍墙内
 - DOMAIN,n.7.cr,🛩️ ‍墙内
 - DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,dd.al,🛩️ ‍墙内
-- DOMAIN,all.bz,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
+- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
 - DOMAIN,ghproxy.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
