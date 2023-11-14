@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 双11疯狂购物季，全场5折！2023年11月4日-2023年11月11日 - V2Link VPN, server: free.v2aff.link, port: 2053, type: vmess, uuid: 4df22bb8-53b5-493e-81aa-f70969620fec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
 - {name: 🇭🇰 香港 01 - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇭🇰 香港 02 - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
 - {name: 🇭🇰 香港 03 - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: 4df22bb8-53b5-493e-81aa-f70969620fec, udp: true}
