@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：17 天 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: edbfd7bb-1513-4c28-a7fb-9ffd3719f9d8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
