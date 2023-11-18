@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: 5EH2tiZeQHCEVoUF, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: 5EH2tiZeQHCEVoUF, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: 5EH2tiZeQHCEVoUF, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: 5EH2tiZeQHCEVoUF, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: KTVmyMEgXgrqh6Se, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: KTVmyMEgXgrqh6Se, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: KTVmyMEgXgrqh6Se, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: KTVmyMEgXgrqh6Se, udp: true}
