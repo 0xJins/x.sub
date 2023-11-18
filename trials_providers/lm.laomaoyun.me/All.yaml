@@ -1,54 +1,54 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 01-最新域名 laomao.org - 老猫, server: 455672.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 02 - 老猫, server: 54816.laomao2.xyz, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 03 - 老猫, server: 5478845.laomao2.xyz, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 04 - 老猫, server: 54484.laomao2.xyz, port: 30004, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 05 - 老猫, server: 5484611.laomao2.xyz, port: 30005, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 06 - 老猫, server: 45154873.laomao2.xyz, port: 30006, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 07 - 老猫, server: 4512698.laomao2.xyz, port: 30007, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 08 - 老猫, server: 5136985.laomao2.xyz, port: 30008, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 09 - 老猫, server: 956541.laomao2.xyz, port: 30009, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 10 - 老猫, server: 598674.laomao2.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 11 - 老猫, server: 6521548.laomao2.xyz, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 12 - 老猫, server: 5469877.laomao2.xyz, port: 30012, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 13 - 老猫, server: 5985462.laomao2.xyz, port: 30013, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 14 - 老猫, server: 5988564.laomao2.xyz, port: 30014, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 15 - 老猫, server: 5986545.laomao2.xyz, port: 30015, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 16 - 老猫, server: 587848.laomao2.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 17 - 老猫, server: 9656562.laomao2.xyz, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 18 - 老猫, server: 8454156.laomao2.xyz, port: 30018, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 19 - 老猫, server: 584985.laomao2.xyz, port: 30019, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇭🇰 香港 20 - 老猫, server: 6989595.laomao2.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 01 - 老猫, server: 888956.laomao2.xyz, port: 30101, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 02 - 老猫, server: 848549.laomao2.xyz, port: 30102, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 03 - 老猫, server: 959584.laomao2.xyz, port: 30103, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 04 - 老猫, server: 9584565.laomao2.xyz, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 05 - 老猫, server: 8848494.laomao2.xyz, port: 30105, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 06 - 老猫, server: 9584549.laomao2.xyz, port: 30106, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 07 - 老猫, server: 8451546.laomao2.xyz, port: 30107, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 08 - 老猫, server: 958484.laomao2.xyz, port: 30108, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 09 - 老猫, server: 548454.laomao2.xyz, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇯🇵 日本 10 - 老猫, server: 8454953.laomao2.xyz, port: 30110, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 01 - 老猫, server: 5484651.laomao2.xyz, port: 30401, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 02 - 老猫, server: 548484.laomao2.xyz, port: 30402, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 03 - 老猫, server: 8984848.laomao2.xyz, port: 30403, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 04 - 老猫, server: 84849545.laomao2.xyz, port: 30404, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 05 - 老猫, server: 984784515.laomao2.xyz, port: 30405, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 06 - 老猫, server: 65147484.laomao2.xyz, port: 30406, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 07 - 老猫, server: 984584.laomao2.xyz, port: 30407, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 08 - 老猫, server: 95848462.laomao2.xyz, port: 30408, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 09 - 老猫, server: 98548451.laomao2.xyz, port: 30409, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇸🇬 新加坡 10 - 老猫, server: 8484615.laomao2.xyz, port: 30410, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇹🇼 台湾 01 - 老猫, server: 984515.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 01 - 老猫, server: 9878484.laomao2.xyz, port: 30201, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 02 - 老猫, server: 9898951.laomao2.xyz, port: 30202, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 03 - 老猫, server: 12548795.laomao2.xyz, port: 30203, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 04 - 老猫, server: 98545154.laomao2.xyz, port: 30204, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 05 - 老猫, server: 9878451.laomao2.xyz, port: 30205, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 06 - 老猫, server: 987845154.laomao2.xyz, port: 30206, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 07 - 老猫, server: 98784841.laomao2.xyz, port: 30207, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 08 - 老猫, server: 878481.laomao2.xyz, port: 30208, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 09 - 老猫, server: 65848124.laomao2.xyz, port: 30209, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
-- {name: 🇺🇸 美国 10 - 老猫, server: 87848154.laomao2.xyz, port: 30210, type: ss, cipher: chacha20-ietf-poly1305, password: 89277238-de78-407c-b44d-4f1efd0fe146, udp: true}
+- {name: 🇭🇰 香港 01-最新域名 laomao.org - 老猫, server: 455672.laomao2.xyz, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 02 - 老猫, server: 54816.laomao2.xyz, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 03 - 老猫, server: 5478845.laomao2.xyz, port: 30003, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 04 - 老猫, server: 54484.laomao2.xyz, port: 30004, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 05 - 老猫, server: 5484611.laomao2.xyz, port: 30005, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 06 - 老猫, server: 45154873.laomao2.xyz, port: 30006, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 07 - 老猫, server: 4512698.laomao2.xyz, port: 30007, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 08 - 老猫, server: 5136985.laomao2.xyz, port: 30008, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 09 - 老猫, server: 956541.laomao2.xyz, port: 30009, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 10 - 老猫, server: 598674.laomao2.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 11 - 老猫, server: 6521548.laomao2.xyz, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 12 - 老猫, server: 5469877.laomao2.xyz, port: 30012, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 13 - 老猫, server: 5985462.laomao2.xyz, port: 30013, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 14 - 老猫, server: 5988564.laomao2.xyz, port: 30014, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 15 - 老猫, server: 5986545.laomao2.xyz, port: 30015, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 16 - 老猫, server: 587848.laomao2.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 17 - 老猫, server: 9656562.laomao2.xyz, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 18 - 老猫, server: 8454156.laomao2.xyz, port: 30018, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 19 - 老猫, server: 584985.laomao2.xyz, port: 30019, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇭🇰 香港 20 - 老猫, server: 6989595.laomao2.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 01 - 老猫, server: 888956.laomao2.xyz, port: 30101, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 02 - 老猫, server: 848549.laomao2.xyz, port: 30102, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 03 - 老猫, server: 959584.laomao2.xyz, port: 30103, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 04 - 老猫, server: 9584565.laomao2.xyz, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 05 - 老猫, server: 8848494.laomao2.xyz, port: 30105, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 06 - 老猫, server: 9584549.laomao2.xyz, port: 30106, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 07 - 老猫, server: 8451546.laomao2.xyz, port: 30107, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 08 - 老猫, server: 958484.laomao2.xyz, port: 30108, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 09 - 老猫, server: 548454.laomao2.xyz, port: 30109, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇯🇵 日本 10 - 老猫, server: 8454953.laomao2.xyz, port: 30110, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 01 - 老猫, server: 5484651.laomao2.xyz, port: 30401, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 02 - 老猫, server: 548484.laomao2.xyz, port: 30402, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 03 - 老猫, server: 8984848.laomao2.xyz, port: 30403, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 04 - 老猫, server: 84849545.laomao2.xyz, port: 30404, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 05 - 老猫, server: 984784515.laomao2.xyz, port: 30405, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 06 - 老猫, server: 65147484.laomao2.xyz, port: 30406, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 07 - 老猫, server: 984584.laomao2.xyz, port: 30407, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 08 - 老猫, server: 95848462.laomao2.xyz, port: 30408, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 09 - 老猫, server: 98548451.laomao2.xyz, port: 30409, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇸🇬 新加坡 10 - 老猫, server: 8484615.laomao2.xyz, port: 30410, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇹🇼 台湾 01 - 老猫, server: 984515.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 01 - 老猫, server: 9878484.laomao2.xyz, port: 30201, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 02 - 老猫, server: 9898951.laomao2.xyz, port: 30202, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 03 - 老猫, server: 12548795.laomao2.xyz, port: 30203, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 04 - 老猫, server: 98545154.laomao2.xyz, port: 30204, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 05 - 老猫, server: 9878451.laomao2.xyz, port: 30205, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 06 - 老猫, server: 987845154.laomao2.xyz, port: 30206, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 07 - 老猫, server: 98784841.laomao2.xyz, port: 30207, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 08 - 老猫, server: 878481.laomao2.xyz, port: 30208, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 09 - 老猫, server: 65848124.laomao2.xyz, port: 30209, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
+- {name: 🇺🇸 美国 10 - 老猫, server: 87848154.laomao2.xyz, port: 30210, type: ss, cipher: chacha20-ietf-poly1305, password: f15102c4-cf3d-4afe-a8d4-2fdc2fe7d991, udp: true}
