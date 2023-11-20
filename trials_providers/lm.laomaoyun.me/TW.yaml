@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 01 - 老猫, server: 984515.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: 08770be1-4b5c-460a-b235-64f8675f8c4f, udp: true}
+- {name: 🇹🇼 台湾 01 - 老猫, server: 984515.laomao2.xyz, port: 30301, type: ss, cipher: chacha20-ietf-poly1305, password: d4771c59-8a14-4f7e-b0c1-e2ea5b779282, udp: true}
