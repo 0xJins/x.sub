@@ -1,13 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: 0279416e-334a-4679-a442-5bcf36ed7c08, udp: true}
-- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: 0279416e-334a-4679-a442-5bcf36ed7c08, udp: true}
-- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 132342:ri3zst, obfs-param: 'b81f3132342.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
+- {name: 最新网址ww1.giaoyun.xyz（正常访问） - giao云, server: 9.9.9.9, port: 25252, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
+- {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
+- {name: <1.官网地址：itg.best> - 糖果, server: cngzm00.tangguo.pro, port: 6022, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 132455:wnFe0I, obfs-param: 'b84bb132455.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 距离下次重置剩余：1 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: e76d0398-05c8-468f-aef2-40a1dbee9481, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
-- {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fe92d7e6-685e-3320-9dc7-6ea9c2e17062, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: fe92d7e6-685e-3320-9dc7-6ea9c2e17062, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 距离下次重置剩余：1 天 - FastFly, server: gdct001.theyydsnode.top, port: 29223, type: ss, cipher: chacha20-ietf-poly1305, password: c3521bb1-d41c-4ced-af09-8585d22d17a7, udp: true}
+- {name: 官网 https://1100.gg（非节点） - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 2da83ed1-6190-39c4-8a01-68d35a37f960, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 提示：使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: 2da83ed1-6190-39c4-8a01-68d35a37f960, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：5 天 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: 免费计划仅包含4个节点，要获取全部节点，请购买付费套餐。 - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: 距离下次重置剩余：29 天 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: a79d40d7-4f1d-4501-8062-f13994184c3a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
