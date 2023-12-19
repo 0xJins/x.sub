@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇺 GCP-AU1-20231201 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 5bda0508-096b-40e3-8512-9c5f7ef2ab4f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20231201 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 439c5e73-f929-48c8-9724-033198a5205f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
