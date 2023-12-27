@@ -18,7 +18,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇱🇦 请登录https://laomao.org 续费 - 老猫
+  - 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -53,7 +53,7 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇱🇦 请登录https://laomao.org 续费 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: dd6aece6-c3bf-422f-9eab-5e62b993f438, udp: true}
+- {name: 🇱🇦 请登录https://laomaoyun.net 续费 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: cc65d76c-b1da-4e54-b7c8-27751cb024ef, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
