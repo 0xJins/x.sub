@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
+- {name: 🇯🇵 Oracle-JP2-20231228 - Kangaroo✦Network, server: jp2.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp2.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP4-20231228 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP5-20231228 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP6-20231228 - Kangaroo✦Network, server: jp6.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.pay.edu.kg}}, udp: true}

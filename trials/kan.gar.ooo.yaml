@@ -27,10 +27,10 @@ proxy-groups:
   - 🇹🇼 GCP-TW1-20231201 - Kangaroo✦Network
   - 🇹🇼 GCP-TW2-20231201 - Kangaroo✦Network
   - 🇹🇼 GCP-TW3-20231201 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP2-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP4-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP5-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP6-20231228 - Kangaroo✦Network
   - 🇦🇺 GCP-AU1-20231201 - Kangaroo✦Network
 - name: 🛩️ ‍墙内
   type: select
@@ -85,10 +85,10 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network
-  - 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP2-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP4-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP5-20231228 - Kangaroo✦Network
+  - 🇯🇵 Oracle-JP6-20231228 - Kangaroo✦Network
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -109,14 +109,14 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇦🇺 GCP-AU1-20231201 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20231201 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20231201 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20231201 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 Oracle-JP3-20221223 - Kangaroo✦Network, server: jp3.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20220517 - Kangaroo✦Network, server: jp4.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20220517 - Kangaroo✦Network, server: jp5.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.enuotime.com}}, udp: true}
-- {name: 🇯🇵 Oracle-JP6-20221223 - Kangaroo✦Network, server: jp6.enuotime.com, port: 443, type: vmess, uuid: 36faa25f-1480-41fa-afc3-f6845d9d853a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.enuotime.com}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20231201 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20231201 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20231201 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20231201 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP2-20231228 - Kangaroo✦Network, server: jp2.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp2.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP4-20231228 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP5-20231228 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP6-20231228 - Kangaroo✦Network, server: jp6.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp6.pay.edu.kg}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
