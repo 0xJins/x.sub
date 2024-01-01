@@ -35,7 +35,7 @@ proxy-groups:
   - SG
   - JP
   - US
-  - Other
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -117,7 +117,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id008
-  - Other
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -188,11 +188,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
+  p_All_Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/fastestcloud.xyz/p_All_Other.yaml
     interval: 180
-    path: trials_providers/fastestcloud.xyz/Other.yaml
+    path: trials_providers/fastestcloud.xyz/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -264,6 +264,11 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
