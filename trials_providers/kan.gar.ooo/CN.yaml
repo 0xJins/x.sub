@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 GCP-TW1-20231201 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20231201 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20231201 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 4e6f7418-aa2a-4170-90d1-6ceac51c2ecc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20231201 - Kangaroo✦Network, server: tw1.pay.edu.kg, port: 443, type: vmess, uuid: 9de61a7a-05c6-4d85-81c0-5d5f3efcb49b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20231201 - Kangaroo✦Network, server: tw2.pay.edu.kg, port: 443, type: vmess, uuid: 9de61a7a-05c6-4d85-81c0-5d5f3efcb49b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20231201 - Kangaroo✦Network, server: tw3.pay.edu.kg, port: 443, type: vmess, uuid: 9de61a7a-05c6-4d85-81c0-5d5f3efcb49b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.pay.edu.kg}}, udp: true}
