@@ -2,5 +2,4 @@
 ---
 proxies:
 - {name: ℹ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 9ffb3331-1743-4a40-b091-49a2af605126, udp: true}
-- {name: 🇱🇦 请登录88laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 9ffb3331-1743-4a40-b091-49a2af605126, udp: true}
 - {name: ℹ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 9ffb3331-1743-4a40-b091-49a2af605126, udp: true}

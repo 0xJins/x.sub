@@ -10,7 +10,9 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -38,6 +40,8 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🎏 ‍其他
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -47,9 +51,17 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id002
 proxy-providers:
   All:
     type: http
