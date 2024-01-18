@@ -20,7 +20,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇱🇦 请登录88laomao.com 购买 - 老猫
+  - 🇱🇦 请登录8888888.88laomao.com 购买 - 老猫
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -59,7 +59,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id002
-  - 🇱🇦 请登录88laomao.com 购买 - 老猫
+  - 🇱🇦 请登录8888888.88laomao.com 购买 - 老猫
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -67,7 +67,7 @@ proxy-groups:
   type: select
   proxies: *id002
 proxies:
-- {name: 🇱🇦 请登录88laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 6590e4a4-387d-4cb8-b647-f25b5d7b464f, udp: true}
+- {name: 🇱🇦 请登录8888888.88laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: bd5f544f-ad1c-4f05-a274-055b369a1c94, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
