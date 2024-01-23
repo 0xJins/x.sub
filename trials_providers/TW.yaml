@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: ab72a2f8-f721-4dba-babf-95ca17b67bcc, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gdct001.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gdct003.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: shcm002.theyydsnode.top, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gdct001.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gdct003.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: shcm002.theyydsnode.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 20a226f2-d517-4864-98c3-4e224cc90b56, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: 17c94490-172f-4756-b47a-11752da31529, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 64850, type: trojan, password: 17c94490-172f-4756-b47a-11752da31529, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 64850, type: trojan, password: 17c94490-172f-4756-b47a-11752da31529, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -54,15 +54,15 @@ proxies:
 - {name: 🇹🇼 台湾 01 - V2Link VPN, server: host-021.crazyspeed.xyz, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇹🇼 台湾 02 - V2Link VPN, server: host-022.crazyspeed.xyz, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇹🇼 台湾 03 - V2Link VPN, server: host-023.crazyspeed.xyz, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: acc.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: SkJWtQM8n4CovZQc, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: acc.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: SkJWtQM8n4CovZQc, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: acc.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: SkJWtQM8n4CovZQc, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: acc.xiyun.co, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: b2vBDoBeAUbj56GL, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: acc.xiyun.co, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: b2vBDoBeAUbj56GL, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: acc.xiyun.co, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: b2vBDoBeAUbj56GL, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud, server: 159.27.84.110, port: 26759, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud, server: gzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud, server: llp-shct.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点4 速度炸裂（各种意义） - Cfcloud, server: hzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 67b79df9-4d36-325e-b858-4870252fa9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 67b79df9-4d36-325e-b858-4870252fa9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: baeab343-b113-332b-a527-1b789dbdee18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: baeab343-b113-332b-a527-1b789dbdee18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 SVIP|台湾0A|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 SVIP|台湾0B|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32326, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 🇹🇼 SVIP|台湾0C|2倍率 - 探索者, server: 603diyb.donghui.tech, port: 32330, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
