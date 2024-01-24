@@ -1839,8 +1839,10 @@ rules:
 - DOMAIN-SUFFIX,bigfunapp.cn,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.com,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.net,📺 ‍B站
+- DOMAIN-SUFFIX,bilibili.co,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.com,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.net,📺 ‍B站
+- DOMAIN-SUFFIX,biliintl.co,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.cn,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.com,📺 ‍B站
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
@@ -2540,6 +2542,7 @@ rules:
 - DOMAIN-SUFFIX,caijinglengyan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calameo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calebelston.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,calendarz.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,calibre-ebook.com,✈️ ‍起飞
@@ -2792,6 +2795,7 @@ rules:
 - DOMAIN-SUFFIX,comefromchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,comic-mega.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,commandarms.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,comments.app,✈️ ‍起飞
 - DOMAIN-SUFFIX,commentshk.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,communistcrimes.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,communitychoicecu.com,✈️ ‍起飞
@@ -3522,6 +3526,7 @@ rules:
 - DOMAIN-SUFFIX,geekheart.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,gekikame.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gelbooru.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,generated.photos,✈️ ‍起飞
 - DOMAIN-SUFFIX,genius.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geocities.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geph.io,✈️ ‍起飞
@@ -3642,9 +3647,9 @@ rules:
 - DOMAIN-SUFFIX,grammaly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,grandtrial.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,grangorz.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,graph.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,graphql.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,gravatar.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,greasespot.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-firewall.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-roc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,greatfire.org,✈️ ‍起飞
@@ -3903,6 +3908,8 @@ rules:
 - DOMAIN-SUFFIX,hudatoriq.web.id,✈️ ‍起飞
 - DOMAIN-SUFFIX,hudson.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,huffingtonpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huffpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huggingface.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhaitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhamhire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhangfei.com,✈️ ‍起飞
@@ -4917,6 +4924,7 @@ rules:
 - DOMAIN-SUFFIX,oauth.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,observechina.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,obutu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,obyte.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocaspro.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,occupytiananmen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocreampies.com,✈️ ‍起飞
@@ -5225,6 +5233,7 @@ rules:
 - DOMAIN-SUFFIX,pshvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphon3.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphontoday.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,pstatic.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,pt.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,ptt.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,pttgame.com,✈️ ‍起飞
@@ -5275,6 +5284,7 @@ rules:
 - DOMAIN-SUFFIX,questvisual.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,quiz.directory,✈️ ‍起飞
 - DOMAIN-SUFFIX,quora.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quoracdn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quran.com,✈️ ‍起飞
@@ -5946,6 +5956,7 @@ rules:
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,throughnightsfire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,thumbzilla.com,✈️ ‍起飞
@@ -6507,6 +6518,7 @@ rules:
 - DOMAIN-SUFFIX,wav.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,waveprotocol.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,waymo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,wd.bible,✈️ ‍起飞
 - DOMAIN-SUFFIX,wdf5.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearehairy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearn.com,✈️ ‍起飞
@@ -6612,12 +6624,12 @@ rules:
 - DOMAIN-SUFFIX,witopia.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wizcrafts.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wjbk.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,wmflabs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wo.tc,✈️ ‍起飞
 - DOMAIN-SUFFIX,woeser.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,woesermiddle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wokar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wolfax.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wombo.ai,✈️ ‍起飞
@@ -6762,6 +6774,7 @@ rules:
 - DOMAIN-SUFFIX,yam.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yande.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,yandex.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,yandex.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,yanghengjun.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yangjianli.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yayabay.com,✈️ ‍起飞
