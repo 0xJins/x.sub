@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇺 GCP-AU1-20240117 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: fc48c31e-584d-46fa-8da9-1b3cc52452d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
-- {name: 🇦🇺 Oracle-AU3-20240117 - Kangaroo✦Network, server: au3.pay.edu.kg, port: 443, type: vmess, uuid: fc48c31e-584d-46fa-8da9-1b3cc52452d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au3.pay.edu.kg}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20240117 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: 61dc7b70-6c45-4819-a539-b78a517275b4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 🇦🇺 Oracle-AU3-20240117 - Kangaroo✦Network, server: au3.pay.edu.kg, port: 443, type: vmess, uuid: 61dc7b70-6c45-4819-a539-b78a517275b4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au3.pay.edu.kg}}, udp: true}
