@@ -292,7 +292,7 @@ proxies:
 - {name: 🇹🇼 台湾隧道-NF-TK-GPT - giao云, server: 189hz01.xn--fiqa108dbd596g538d.com, port: 10089, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 915tw.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 26892, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1024tw5.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾隧道3-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 36251, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1028tw99.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 943846f9-f129-4a26-9fb6-c8ba61eadc5a, udp: true}
+- {name: 🇱🇦 请登录66.66laomao.com 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: 99aeacab-7002-493b-86a4-042d565c4174, udp: true}
 - {name: 🇭🇰 香港 01 - V2Link VPN, server: host-001.crazyspeed.xyz, port: 30501, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 02 - V2Link VPN, server: host-002.crazyspeed.xyz, port: 30502, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇭🇰 香港 03 - V2Link VPN, server: host-003.crazyspeed.xyz, port: 30503, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
