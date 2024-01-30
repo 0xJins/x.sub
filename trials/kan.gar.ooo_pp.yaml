@@ -24,7 +24,7 @@ proxy-groups:
   use: &id001
   - TW
   - JP
-  - Other
+  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,7 +77,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id004
-  - Other
+  - p_All_Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -109,11 +109,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  Other:
+  p_All_Other:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/Other.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/kan.gar.ooo/p_All_Other.yaml
     interval: 180
-    path: trials_providers/kan.gar.ooo/Other.yaml
+    path: trials_providers/kan.gar.ooo/p_All_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
