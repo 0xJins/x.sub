@@ -10,9 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -40,8 +38,6 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -51,17 +47,9 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id002
-  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id002
 proxy-providers:
   All:
     type: http
@@ -119,8 +107,12 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,ghproxy.top,🛩️ ‍墙内
+- DOMAIN,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,ghproxy.org,🛩️ ‍墙内
+- DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fgit.cf,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内

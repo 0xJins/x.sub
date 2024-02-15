@@ -244,8 +244,12 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,ghproxy.top,🛩️ ‍墙内
+- DOMAIN,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,ghproxy.org,🛩️ ‍墙内
+- DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fgit.cf,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
