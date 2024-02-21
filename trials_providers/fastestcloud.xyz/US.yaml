@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: node000001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: node000003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-03 - FastFly, server: node000005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: node000001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: node000003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: node000005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: node000001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: node000003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
-- {name: 🇺🇸 vip1 美国-13 - FastFly, server: node000005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: c185ddb3-ceaa-4265-9bd1-eff1c51d7c88, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: node000001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: node000003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-03 - FastFly, server: node000005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: node000001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: node000003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: node000005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: node000001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: node000003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}
+- {name: 🇺🇸 vip1 美国-13 - FastFly, server: node000005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a541933-9eba-4bea-96ec-a58347e30e3d, udp: true}

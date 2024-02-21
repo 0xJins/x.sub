@@ -191,6 +191,10 @@ rules:
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
