@@ -58,15 +58,15 @@ proxies:
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: gcdddd0001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: gcdddd0003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-03 - FastFly, server: gcdddd0005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: gcdddd0001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: gcdddd0003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gcdddd0005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gcdddd0001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gcdddd0003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
-- {name: 🇺🇸 vip1 美国-13 - FastFly, server: gcdddd0005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 7a5901af-5b39-44a2-85b9-0c6d04f3da8f, udp: true}
+- {name: 🇺🇸 vip1 美国-01 - FastFly, server: gcdddd0001.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-02 - FastFly, server: gcdddd0003.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-03 - FastFly, server: gcdddd0005.likeone.lol, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-06 - FastFly, server: gcdddd0001.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-07 - FastFly, server: gcdddd0003.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-08 - FastFly, server: gcdddd0005.likeone.lol, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-11 - FastFly, server: gcdddd0001.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-12 - FastFly, server: gcdddd0003.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
+- {name: 🇺🇸 vip1 美国-13 - FastFly, server: gcdddd0005.likeone.lol, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: 52d0cd6c-2800-4f35-b6e8-31f3a872a7e1, udp: true}
 - {name: 极速｜美国🇺🇸E - 探索者, server: 603diyb.donghui.tech, port: 32329, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸F - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
