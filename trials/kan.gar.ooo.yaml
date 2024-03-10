@@ -107,13 +107,13 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
-- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
-- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
-- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}
-- {name: 🇯🇵 Oracle-JP3-20240117 - Kangaroo✦Network, server: jp3.pay.edu.kg, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 Oracle-JP4-20240117 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
-- {name: 🇯🇵 Oracle-JP5-20240117 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: c364539b-e615-48b3-bb74-cf6bfc94edca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
+- {name: 🇦🇺 GCP-AU1-20240215 - Kangaroo✦Network, server: au1.pay.edu.kg, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au1.pay.edu.kg}}, udp: true}
+- {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
+- {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
+- {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}
+- {name: 🇯🇵 Oracle-JP3-20240117 - Kangaroo✦Network, server: jp3.pay.edu.kg, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP4-20240117 - Kangaroo✦Network, server: jp4.pay.edu.kg, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp4.pay.edu.kg}}, udp: true}
+- {name: 🇯🇵 Oracle-JP5-20240117 - Kangaroo✦Network, server: jp5.pay.edu.kg, port: 443, type: vmess, uuid: c761f66f-8289-44b0-9868-2230f4f28f67, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp5.pay.edu.kg}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -191,15 +191,6 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
-- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
-- DOMAIN,open.e.kuaishou.com,💩 ‍广告
-- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
-- DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
-- DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
-- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
-- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
-- DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
-- DOMAIN,api.juliangcili.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
