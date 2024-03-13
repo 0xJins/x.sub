@@ -1,21 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 vip1 香港-01 - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-02 - FastFly, server: gcdddd0003.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-03 - FastFly, server: gcdddd0005.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-07 - FastFly, server: gcdddd0001.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-08 - FastFly, server: gcdddd0003.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-09 - FastFly, server: gcdddd0005.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-13 - FastFly, server: gcdddd0001.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-14 - FastFly, server: gcdddd0003.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-15 - FastFly, server: gcdddd0005.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-19 - FastFly, server: gcdddd0001.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-20 - FastFly, server: gcdddd0003.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇭🇰 vip1 香港-21 - FastFly, server: gcdddd0005.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gcdddd0001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gcdddd0003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gcdddd0005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gcdddd0001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gcdddd0003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: gcdddd0005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: f3081c97-d933-430a-9071-a0e1441da739, udp: true}
+- {name: 🇭🇰 vip1 香港-01 - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-02 - FastFly, server: gcdddd0003.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-03 - FastFly, server: gcdddd0005.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-07 - FastFly, server: gcdddd0001.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-08 - FastFly, server: gcdddd0003.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-09 - FastFly, server: gcdddd0005.likeone.lol, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-13 - FastFly, server: gcdddd0001.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-14 - FastFly, server: gcdddd0003.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-15 - FastFly, server: gcdddd0005.likeone.lol, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-19 - FastFly, server: gcdddd0001.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-20 - FastFly, server: gcdddd0003.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇭🇰 vip1 香港-21 - FastFly, server: gcdddd0005.likeone.lol, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gcdddd0001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gcdddd0003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gcdddd0005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gcdddd0001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gcdddd0003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: gcdddd0005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b22d222b-d6f1-4fb5-ad68-a211a76523ea, udp: true}
