@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gcdddd0001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gcdddd0003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gcdddd0005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gcdddd0001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gcdddd0003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: gcdddd0005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 5b6e2701-e6c7-44c7-801a-a7bbe66186f1, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 60239cfd-8c95-4fb1-b2bc-c5e4f8b0cb15, udp: true}
