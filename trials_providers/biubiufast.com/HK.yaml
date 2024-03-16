@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: 68cf22d6-ee5e-4f6a-9f2a-9677707c071e, udp: true}
-- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: 68cf22d6-ee5e-4f6a-9f2a-9677707c071e, udp: true}
-- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: 68cf22d6-ee5e-4f6a-9f2a-9677707c071e, udp: true}
-- {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11101, type: trojan, password: 68cf22d6-ee5e-4f6a-9f2a-9677707c071e, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11302, type: trojan, password: 68cf22d6-ee5e-4f6a-9f2a-9677707c071e, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|SS直连二 - BIUBIU FAST 加速器, server: hk1.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: f0107e91-0473-441b-bc66-1dc5ef9a079f, udp: true}
+- {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: f0107e91-0473-441b-bc66-1dc5ef9a079f, udp: true}
+- {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: f0107e91-0473-441b-bc66-1dc5ef9a079f, udp: true}
+- {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11101, type: trojan, password: f0107e91-0473-441b-bc66-1dc5ef9a079f, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11302, type: trojan, password: f0107e91-0473-441b-bc66-1dc5ef9a079f, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
