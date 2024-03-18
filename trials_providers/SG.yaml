@@ -5,12 +5,12 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: tDWqwhbOnnXnh6Fo, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: tDWqwhbOnnXnh6Fo, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: bcc.xiyun.co, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: tDWqwhbOnnXnh6Fo, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 34e4a68a-0e0b-45c1-b5cb-3bd84479766e, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
+- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
+- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: ss, cipher: chacha20-ietf-poly1305, password: 14b3b5c9-fe54-4fa2-bea7-c32daaaaee45, udp: true}
 - {name: 🇸🇬 新加坡 直连1 - 爱猫论坛, server: sg1.594888.xyz, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg1.594888.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡 直连2 - 爱猫论坛, server: sg2.594888.xyz, port: 443, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: sg2.594888.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: api1.594888.xyz, port: 36007, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
