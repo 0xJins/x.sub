@@ -8,12 +8,12 @@ proxies:
 - {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: c3TyPo72vtulKGhy, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: c3TyPo72vtulKGhy, udp: true}
 - {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: c3TyPo72vtulKGhy, udp: true}
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 4cfe7340-dc33-4b7f-abe1-b79846841398, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 01 - 爱猫论坛, server: sahng4.594888.xyz, port: 36011, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 02 GBT - 爱猫论坛, server: sahng6.594888.xyz, port: 36012, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 东京｜隧道 03 GBT - 爱猫论坛, server: sahng2.594888.xyz, port: 36013, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -79,5 +79,5 @@ proxies:
 - {name: 🇯🇵 日本-03 | 2X - 凌云网络, server: js1.76po.com, port: 44639, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-04 | 2X - 凌云网络, server: js1.76po.com, port: 51238, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本隧道1-NF-TK-GPT - giao云, server: 189hz01.xn--fiqa108dbd596g538d.com, port: 26982, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1024jp9.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: e6a214de-d889-36c8-bd23-45fa67c3df9c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: e6a214de-d889-36c8-bd23-45fa67c3df9c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 8.v2-ray.cyou, port: 23608, type: vmess, uuid: 29334443-2d6b-3ab7-ad8e-1b3b94024fab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 29334443-2d6b-3ab7-ad8e-1b3b94024fab, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.v2-ray.cyou}}, udp: true}
