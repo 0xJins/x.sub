@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
-- {name: 🇭🇰 vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 158f56ce-28d8-4eb9-aaf9-fc06244e1776, udp: true}
+- {name: 🇭🇰 vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
+- {name: 🇭🇰 vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 31ec650e-844e-4da3-8ef9-612861daa022, udp: true}
