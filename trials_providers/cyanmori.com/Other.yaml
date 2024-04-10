@@ -1,16 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 1106d80f-8b8e-381c-ac05-fa65d1600588, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: gz.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: gz.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: bcc.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: bcc.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇩🇪 德国柏林01 - Cyanmori, server: bcc.xiyun.co, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇫🇷 法国 - Cyanmori, server: bcc.xiyun.co, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: bcc.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 3HOrQBepInXrxzqh, udp: true}
+- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 85773751-9f13-3fa2-8428-954ec733d3a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: gz.xiyun.co, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: gz.xiyun.co, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: bcc.xiyun.co, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: bcc.xiyun.co, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇩🇪 德国柏林01 - Cyanmori, server: bcc.xiyun.co, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇫🇷 法国 - Cyanmori, server: bcc.xiyun.co, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: bcc.xiyun.co, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: 1uHWc52eYgGonG4J, udp: true}
