@@ -56,9 +56,9 @@ proxy-groups:
   - 🇺🇸 美国02 - Cyanmori
   - 🇺🇸 美国03 - Cyanmori
   - 🇺🇸 美国04 - Cyanmori
-  - 🇺🇲 美国05 - Cyanmori
-  - 🇺🇲 美国06 - Cyanmori
-  - 🇺🇲 美国07 - Cyanmori
+  - 🇺🇸 美国05 - Cyanmori
+  - 🇺🇸 美国06 - Cyanmori
+  - 🇺🇸 美国07 - Cyanmori
   - ℹ️ 官网：https://1100.gg - Cyanmori
   - 🇮🇳 印度01 - Cyanmori
   - 🇮🇳 印度02 - Cyanmori
@@ -190,9 +190,9 @@ proxy-groups:
   - 🇺🇸 美国02 - Cyanmori
   - 🇺🇸 美国03 - Cyanmori
   - 🇺🇸 美国04 - Cyanmori
-  - 🇺🇲 美国05 - Cyanmori
-  - 🇺🇲 美国06 - Cyanmori
-  - 🇺🇲 美国07 - Cyanmori
+  - 🇺🇸 美国05 - Cyanmori
+  - 🇺🇸 美国06 - Cyanmori
+  - 🇺🇸 美国07 - Cyanmori
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -246,14 +246,14 @@ proxies:
 - {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 2f3057e0-8611-3b20-971b-70a13bf4b0b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: bcc.xiyun.co, port: 10058, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: gz.xiyun.co, port: 10036, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: gz.xiyun.co, port: 10064, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: gz.xiyun.co, port: 10073, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: gz.xiyun.co, port: 10077, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇸🇬 新加坡01 - Cyanmori, server: bcc.xiyun.co, port: 10044, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: bcc.xiyun.co, port: 10045, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: bcc.xiyun.co, port: 10046, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
@@ -261,14 +261,14 @@ proxies:
 - {name: 🇺🇸 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇺🇸 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇺🇸 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇺🇸 美国04 - Cyanmori, server: us3.lvuy.xyz, port: 10043, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_b, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: bcc.xiyun.co, port: 10067, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: bcc.xiyun.co, port: 20036, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: bcc.xiyun.co, port: 10075, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇺🇸 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_b, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇺🇸 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇺🇸 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇺🇸 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇮🇳 印度01 - Cyanmori, server: bcc.xiyun.co, port: 10050, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇮🇳 印度02 - Cyanmori, server: bcc.xiyun.co, port: 10051, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: gz.xiyun.co, port: 10047, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: gz.xiyun.co, port: 10048, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇬🇧 英国01 - Cyanmori, server: bcc.xiyun.co, port: 10052, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇬🇧 英国02 - Cyanmori, server: bcc.xiyun.co, port: 10053, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
 - {name: 🇩🇪 德国柏林01 - Cyanmori, server: bcc.xiyun.co, port: 10069, type: ssr, cipher: chacha20-ietf, password: ubtjeOGry3wiGwHk, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 227851:ziHpwovCp1wLXRhW, obfs-param: 3cea5227851.microsoft.com, udp: true}
