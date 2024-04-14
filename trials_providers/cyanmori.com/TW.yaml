@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228708:3dmhVo6DTF4BMdP3, obfs-param: b4591228708.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228708:3dmhVo6DTF4BMdP3, obfs-param: b4591228708.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228708:3dmhVo6DTF4BMdP3, obfs-param: b4591228708.microsoft.com, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ssr, cipher: aes-256-cfb, password: MetronTheme, protocol: auth_chain_a, obfs: http_simple, protocol-param: 228708:3dmhVo6DTF4BMdP3, obfs-param: b4591228708.microsoft.com, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: SRfXE1Ob4osTv9l8, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: SRfXE1Ob4osTv9l8, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: SRfXE1Ob4osTv9l8, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: SRfXE1Ob4osTv9l8, udp: true}
