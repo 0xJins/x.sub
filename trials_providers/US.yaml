@@ -84,13 +84,13 @@ proxies:
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国隧道1-NF-TK-GPT - giao云, server: gz.888898.beauty, port: 29731, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1001us.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国隧道2-NF-TK-GPT - giao云, server: js2.76po.com, port: 35522, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1001us02.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: oGEqpwhdi669o98H, udp: true}
+- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
+- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: RW7KmsLlMP7oIbRw, udp: true}
 - {name: 极速｜美国🇺🇸E - 探索者, server: 603diyb.donghui.tech, port: 32329, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸F - 探索者, server: 603diyb.donghui.tech, port: 32334, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: 极速｜美国🇺🇸K - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
@@ -147,5 +147,5 @@ proxies:
 - {name: 🇺🇸 JCBB_美国05_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 26681, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国05【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_美国06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 26681, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: a8c17342-10a5-3fa4-ae88-ff8c05dfe207, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: a8c17342-10a5-3fa4-ae88-ff8c05dfe207, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: d430f031-1c7e-3f9d-8634-e36b7252fbe7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: d430f031-1c7e-3f9d-8634-e36b7252fbe7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
