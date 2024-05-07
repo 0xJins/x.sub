@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: ebbc60b7-0dfd-350b-b06a-a16172436abf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: ebbc60b7-0dfd-350b-b06a-a16172436abf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: d8aa0483-4b8a-3085-8d72-5b376fd3c123, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: d8aa0483-4b8a-3085-8d72-5b376fd3c123, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 6201e2a9-41ba-49ba-9156-567cb2f5708d, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 6201e2a9-41ba-49ba-9156-567cb2f5708d, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 6201e2a9-41ba-49ba-9156-567cb2f5708d, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -35,6 +35,10 @@ proxies:
 - {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: b157792882.download.windowsupdate.com}, udp: true}
 - {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 189SH02.xn--fiqa108dbd596g538d.com, port: 23658, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: 189hz01.xn--fiqa108dbd596g538d.com, port: 22651, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: o0zxaInjATvrP6ew, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: o0zxaInjATvrP6ew, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: o0zxaInjATvrP6ew, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: o0zxaInjATvrP6ew, udp: true}
 - {name: VIP|新加坡🇸🇬02-5Gbps - 探索者, server: 603diya.donghui.tech, port: 34639, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬03-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32323, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
 - {name: VIP|新加坡🇸🇬04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: c432b60e-3827-47e6-9bf3-35b0b4855a11, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
