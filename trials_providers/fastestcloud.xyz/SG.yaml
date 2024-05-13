@@ -1,9 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: f10003.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: f10001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: f10002.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: f10003.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: f10001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: f10002.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: b872280e-fa6c-4f6f-ae3a-fd064027bb29, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: e1b413a8-7acb-4c2c-b5b8-7ef21bedb882, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 21526, type: trojan, password: e1b413a8-7acb-4c2c-b5b8-7ef21bedb882, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: e1b413a8-7acb-4c2c-b5b8-7ef21bedb882, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 40276, type: trojan, password: e1b413a8-7acb-4c2c-b5b8-7ef21bedb882, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
