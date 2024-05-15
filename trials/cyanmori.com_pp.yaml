@@ -1936,6 +1936,7 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,chatgpt.com,🤖 ‍AI
 - DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
 - DOMAIN-SUFFIX,bing.com,🤖 ‍AI
