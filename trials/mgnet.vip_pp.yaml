@@ -196,23 +196,18 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN,3.7.cr,🛩️ ‍墙内
-- DOMAIN,7.7.cr,🛩️ ‍墙内
-- DOMAIN,c.7.cr,🛩️ ‍墙内
-- DOMAIN,i.7.cr,🛩️ ‍墙内
-- DOMAIN,j.7.cr,🛩️ ‍墙内
-- DOMAIN,n.7.cr,🛩️ ‍墙内
-- DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,api.v1.mk,🛩️ ‍墙内
+- DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scs.f5.si,🛩️ ‍墙内
+- DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
+- DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
+- DOMAIN,url.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,api.subcsub.com,🛩️ ‍墙内
-- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
-- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,sub.id9.cc,🛩️ ‍墙内
+- DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
 - DOMAIN,ghproxy.top,🛩️ ‍墙内
 - DOMAIN,ghproxy.net,🛩️ ‍墙内
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
 - DOMAIN,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
 - DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
 - DOMAIN,gh.idayer.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
