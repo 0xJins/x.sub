@@ -187,7 +187,7 @@ rules:
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
-- DOMAIN-SUFFIX,scs.f5.si,🛩️ ‍墙内
+- DOMAIN-SUFFIX,scmx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
 - DOMAIN,url.v1.mk,🛩️ ‍墙内
