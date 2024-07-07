@@ -51,14 +51,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🛩️ ‍墙内
   - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
-  - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select

@@ -43,8 +43,8 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
