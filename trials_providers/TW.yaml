@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: JOsuyp6PakR6R7Gs, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: JOsuyp6PakR6R7Gs, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: JOsuyp6PakR6R7Gs, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: JOsuyp6PakR6R7Gs, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: 714jztiZY2NINaJG, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: 714jztiZY2NINaJG, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: 714jztiZY2NINaJG, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: 714jztiZY2NINaJG, udp: true}
 - {name: 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network, server: tw1.daishuvpn.win, port: 443, type: vmess, uuid: 1e52cd1c-51c3-4a12-9936-9f5387fdf76d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw1.daishuvpn.win}}, udp: true}
 - {name: 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network, server: tw2.daishuvpn.win, port: 443, type: vmess, uuid: 1e52cd1c-51c3-4a12-9936-9f5387fdf76d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw2.daishuvpn.win}}, udp: true}
 - {name: 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network, server: tw3.daishuvpn.win, port: 443, type: vmess, uuid: 1e52cd1c-51c3-4a12-9936-9f5387fdf76d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw3.daishuvpn.win}}, udp: true}
