@@ -237,46 +237,46 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: b7636cb8-6df1-3560-85d1-68ad0ee41539, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: uk2.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: JD37WCvmEgp27UC1, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: 20ef4d86-c47d-3477-984a-9fb45546b257, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: uk2.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: mU6KgPpbmKAILby9, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -668,7 +668,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,💩 ‍广告
 - DOMAIN-SUFFIX,sanya1.com,💩 ‍广告
 - DOMAIN-SUFFIX,scupio.com,💩 ‍广告
-- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuiguo.com,💩 ‍广告
 - DOMAIN-SUFFIX,shuzilm.cn,💩 ‍广告
 - DOMAIN-SUFFIX,similarweb.com,💩 ‍广告
@@ -736,6 +735,7 @@ rules:
 - DOMAIN-SUFFIX,wqmobile.com,💩 ‍广告
 - DOMAIN-SUFFIX,wrating.com,💩 ‍广告
 - DOMAIN-SUFFIX,wumii.cn,💩 ‍广告
+- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,xcy8.com,💩 ‍广告
 - DOMAIN-SUFFIX,xdrig.com,💩 ‍广告
 - DOMAIN-SUFFIX,xiaozhen.com,💩 ‍广告
@@ -769,7 +769,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -893,6 +892,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,💩 ‍广告
 - DOMAIN-SUFFIX,scorecardresearch.com,💩 ‍广告
 - DOMAIN-SUFFIX,segment.com,💩 ‍广告
+- DOMAIN-SUFFIX,serving-sys.com,💩 ‍广告
 - DOMAIN-SUFFIX,sharethis.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.com,💩 ‍广告
 - DOMAIN-SUFFIX,smaato.net,💩 ‍广告
@@ -2441,6 +2441,7 @@ rules:
 - DOMAIN-SUFFIX,axureformac.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerbaycan.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azerimix.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
@@ -2601,6 +2602,7 @@ rules:
 - DOMAIN-SUFFIX,blubrry.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,blueangellive.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bmfinn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,bnbstatic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnews.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnn.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,bnrmetal.com,✈️ ‍起飞
@@ -2924,6 +2926,7 @@ rules:
 - DOMAIN-SUFFIX,clubhouseapi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,clyp.it,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmcn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cmegroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmoinc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,cms.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,cmu.edu,✈️ ‍起飞
@@ -4178,6 +4181,7 @@ rules:
 - DOMAIN-SUFFIX,imageab.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagefap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imageflea.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,imageglass.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,images-gaytube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagevenue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,imagezilla.net,✈️ ‍起飞
@@ -4283,6 +4287,7 @@ rules:
 - DOMAIN-SUFFIX,ivacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iverycd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ivpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,iwara.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixquick.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ixxx.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iyouport.com,✈️ ‍起飞
@@ -5280,6 +5285,7 @@ rules:
 - DOMAIN-SUFFIX,perfect-privacy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,perfectgirls.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,periscope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,perplexity.ai,✈️ ‍起飞
 - DOMAIN-SUFFIX,persecutionblog.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,persiankitty.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,phapluan.org,✈️ ‍起飞
@@ -5943,6 +5949,7 @@ rules:
 - DOMAIN-SUFFIX,stoptibetcrisis.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,storagenewsletter.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,storify.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,storj.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,storm.mg,✈️ ‍起飞
 - DOMAIN-SUFFIX,stormmediagroup.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,stoweboyd.com,✈️ ‍起飞
@@ -6229,6 +6236,7 @@ rules:
 - DOMAIN-SUFFIX,tibetswiss.ch,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettelegraph.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibettimes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,tibettruth.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tibetwrites.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tigervpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tiktok.com,✈️ ‍起飞
@@ -6508,7 +6516,7 @@ rules:
 - DOMAIN-SUFFIX,urlparser.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,us.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,usacn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,usc.edu,✈️ ‍起飞
+- DOMAIN-SUFFIX,uscardforum.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,uscnpm.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,usembassy.gov,✈️ ‍起飞
 - DOMAIN-SUFFIX,usfk.mil,✈️ ‍起飞
@@ -7406,6 +7414,8 @@ rules:
 - DOMAIN-SUFFIX,didialift.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,didiglobal.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,udache.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,bytefcdnrd.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,edgesrv.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyu.tv,🛩️ ‍墙内
 - DOMAIN-SUFFIX,douyuscdn.com,🛩️ ‍墙内
@@ -7682,6 +7692,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,knewone.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koowo.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,koyso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ksyungslb.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kuaidi100.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,kugou.com,🛩️ ‍墙内
