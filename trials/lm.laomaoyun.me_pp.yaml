@@ -16,6 +16,7 @@ proxy-groups:
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
@@ -23,6 +24,7 @@ proxy-groups:
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -33,6 +35,7 @@ proxy-groups:
   - SG
   - JP
   - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -61,7 +64,9 @@ proxy-groups:
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -108,6 +113,11 @@ proxy-groups:
   tolerance: 300
   use: &id007
   - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -129,6 +139,9 @@ proxy-groups:
 - name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id008
 proxy-providers:
   HK:
     type: http
@@ -171,6 +184,15 @@ proxy-providers:
     url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/lm.laomaoyun.me/US.yaml
     interval: 180
     path: trials_providers/lm.laomaoyun.me/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/lm.laomaoyun.me/Other.yaml
+    interval: 180
+    path: trials_providers/lm.laomaoyun.me/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

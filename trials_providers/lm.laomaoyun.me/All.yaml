@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇱🇦 请登录6854.33laomao.com 续费 - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: 72551bdc-b766-4906-9eeb-83be875b9f14, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01-最新域名 55laomao.com - 老猫, server: 548784.laomao-53875.xyz, port: 50001, type: trojan, password: 72551bdc-b766-4906-9eeb-83be875b9f14, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港02 - 老猫, server: 587848.laomao-53875.xyz, port: 50002, type: trojan, password: 72551bdc-b766-4906-9eeb-83be875b9f14, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港03 - 老猫, server: 587458.laomao-53875.xyz, port: 50003, type: trojan, password: 72551bdc-b766-4906-9eeb-83be875b9f14, sni: alibaba-cert.com, skip-cert-verify: true, udp: true}
