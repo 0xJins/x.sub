@@ -126,17 +126,17 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.mamamajd.site, port: 23608, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 7581ffa4-e2eb-3c9f-8bb2-263be70b6c4e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]香港1 - MG Network', server: 8.mamamajd.site, port: 23608, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]香港2 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 55d22a14-2d9f-3a4e-8715-2e28d03f091c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -173,30 +173,6 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
-- DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
-- DOMAIN,url.v1.mk,🛩️ ‍墙内
-- DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,sub.id9.cc,🛩️ ‍墙内
-- DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghp.ci,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghpr.cc,🛩️ ‍墙内
-- DOMAIN-SUFFIX,gitdl.cn,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghproxy.cn,🛩️ ‍墙内
-- DOMAIN-SUFFIX,ghproxy.net,🛩️ ‍墙内
-- DOMAIN,gh.llkk.cc,🛩️ ‍墙内
-- DOMAIN,gh.6yit.com,🛩️ ‍墙内
-- DOMAIN,gh.tryxd.cn,🛩️ ‍墙内
-- DOMAIN,gh.pylas.xyz,🛩️ ‍墙内
-- DOMAIN,gh.nxnow.top,🛩️ ‍墙内
-- DOMAIN,gh.sixyin.com,🛩️ ‍墙内
-- DOMAIN,mirror.v2gh.com,🛩️ ‍墙内
-- DOMAIN,github-mirror.us.kg,🛩️ ‍墙内
-- DOMAIN,proxy.yaoyaoling.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -7804,110 +7780,7 @@ rules:
 - IP-CIDR,116.71.136.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,116.71.141.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,116.71.142.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.243.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.244.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.251.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,117.78.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.3.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.8.0.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.8.32.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.36.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.36.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,121.37.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,122.112.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.64.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.100.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.104.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.112.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.240.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.9.248.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.128.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.160.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.164.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.168.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.176.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.159.192.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.64.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.79.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.80.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.96.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.112.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.125.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.192.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.223.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.224.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,168.195.92.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,185.176.76.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.199.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.210.163.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.1.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.2.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.4.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.8.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.52.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.54.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.57.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.0.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.4.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.8.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.11.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.13.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.20.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.22.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.24.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.26.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.29.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.33.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.38.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.40.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.43.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.48.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.50.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,42.186.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.127.128.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.195.24.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.253.132.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.253.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.254.48.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,59.111.0.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,59.111.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.120.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.128.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.71.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.12.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.18.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.24.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.28.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.38.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.40.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.44.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.48.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.72.128.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.74.24.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.74.48.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.126.92.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.196.64.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.32.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.64.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.236.112.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.238.76.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,123.58.160.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,223.252.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.199.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.71.243.0/24,🛩️ ‍墙内,no-resol
 - PROCESS-NAME,aria2c.exe,🛩️ ‍墙内
 - PROCESS-NAME,fdm.exe,🛩️ ‍墙内
 - PROCESS-NAME,Folx.exe,🛩️ ‍墙内
