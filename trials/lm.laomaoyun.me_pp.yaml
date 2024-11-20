@@ -33,13 +33,13 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
