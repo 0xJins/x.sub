@@ -12,11 +12,15 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - DIRECT
+  - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
   use: &id001
   - All
+- name: 👆🏻 ‍指定
+  type: select
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -47,9 +51,6 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  use: *id001
 proxy-providers:
   All:
     type: http

@@ -10,6 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
@@ -17,7 +18,6 @@ proxy-groups:
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
@@ -26,6 +26,7 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
+  - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
@@ -36,6 +37,9 @@ proxy-groups:
   - JP
   - US
   - Other
+- name: 👆🏻 ‍指定
+  type: select
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -118,9 +122,6 @@ proxy-groups:
   tolerance: 100
   use: &id008
   - Other
-- name: 👆🏻 ‍指定
-  type: select
-  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
