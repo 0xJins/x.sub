@@ -230,9 +230,8 @@ rules:
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
-- DOMAIN,url.v1.mk,🛩️ ‍墙内
-- DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,sub.id9.cc,🛩️ ‍墙内
+- DOMAIN,api.v1.mk,🛩️ ‍墙内
+- DOMAIN,api.2c.lol,🛩️ ‍墙内
 - DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghp.ci,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghpr.cc,🛩️ ‍墙内
