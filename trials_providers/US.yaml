@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: ab412773-e494-376f-b229-d30460e75c0e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 398ec976-e02e-36bd-9ed9-7402049d1e49, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 48560, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 48560, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
