@@ -133,7 +133,7 @@ proxies:
 - {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: fd382955-6505-33f5-8b3d-1b6e74e816db, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 6bde1bf7-b704-30f5-91c7-e275412d48e3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 JCBB_香港01【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 25974, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 25974, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 25974, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
