@@ -114,7 +114,7 @@ proxies:
 - {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 052a379c-6723-3fcb-bb6c-2ebbbb5074f2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: be8bce30-1aa8-3cc0-8858-9ad1db1583b8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - {name: 🇺🇸 美国01 - Cfcloud, server: llp-shct.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 美国02 - Cfcloud, server: gzdx.acgyt.com, port: 47400, type: ss, cipher: aes-256-gcm, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇺🇸 JCBB_ 美国01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 48560, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
