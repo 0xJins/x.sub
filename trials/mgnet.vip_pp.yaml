@@ -14,13 +14,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -31,7 +31,7 @@ proxy-groups:
   use: &id001
   - HK
   - TW
-  - SG
+  - JP
   - US
   - Other
 - name: 👆🏻 ‍指定
@@ -66,12 +66,12 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -97,11 +97,11 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇸🇬 ‍新加坡
+- name: 🇯🇵 ‍日本
   type: url-test
   tolerance: 100
   use: &id005
-  - SG
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
@@ -121,7 +121,7 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id005
 - name: 👆🏻🇺🇸 ‍美国
@@ -149,11 +149,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  SG:
+  JP:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/mgnet.vip/SG.yaml
+    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/mgnet.vip/JP.yaml
     interval: 180
-    path: trials_providers/mgnet.vip/SG.yaml
+    path: trials_providers/mgnet.vip/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
