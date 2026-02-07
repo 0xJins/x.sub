@@ -36,13 +36,13 @@ proxy-groups:
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇸🇬 [vip①]新加坡2 - MG Network
   - 🇯🇵 [vip①]日本1 - MG Network
   - 🇯🇵 [vip①]日本2 - MG Network
   - 🇯🇵 [vip①]日本3 - MG Network
   - 🇺🇸 [vip①]美国1 - MG Network
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
 - name: 👆🏻 ‍指定
   type: select
@@ -122,6 +122,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id005
   - 🇸🇬 [vip①]新加坡1 - MG Network
+  - 🇸🇬 [vip①]新加坡2 - MG Network
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -146,7 +147,6 @@ proxy-groups:
   proxies: &id008
   - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
   - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
   - 🇰🇷 [vip①]韩国1 - MG Network
 - name: 👆🏻🇭🇰 ‍香港
   type: select
@@ -174,12 +174,12 @@ proxies:
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23612, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23616, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇬🇧 [vip①]英国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23605, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23613, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇰🇷 [vip①]韩国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23614, type: vmess, uuid: d4560d60-330b-3ef5-8d8e-ba7b72cd64e6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
