@@ -6,8 +6,8 @@ proxies:
 - {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 04 - V2Link VPN, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 05 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: ee454020-9325-322c-b596-c0f904f757d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: ee454020-9325-322c-b596-c0f904f757d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: eeae729f-2936-3419-b479-feb2065f854c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: eeae729f-2936-3419-b479-feb2065f854c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: ab8737a6-b267-38ec-a44c-11cf1eccc1d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: ab8737a6-b267-38ec-a44c-11cf1eccc1d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
