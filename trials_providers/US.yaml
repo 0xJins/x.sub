@@ -8,7 +8,7 @@ proxies:
 - {name: 🇺🇸 美国 05 - V2Link VPN, server: host-040.crazyspeed.xyz, port: 16014, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 2c452c47-2b22-4e2e-905e-7dad35322101, udp: true}
 - {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11303, type: trojan, password: 2c452c47-2b22-4e2e-905e-7dad35322101, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 469c5d5c-4d31-36fb-ae60-9e098f06817d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 3969fa0b-c9b8-34f9-8630-527a74d9cf59, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
