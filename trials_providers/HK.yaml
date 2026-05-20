@@ -89,7 +89,7 @@ proxies:
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: 2c452c47-2b22-4e2e-905e-7dad35322101, udp: true}
 - {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11101, type: trojan, password: 2c452c47-2b22-4e2e-905e-7dad35322101, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST 加速器, server: dl.biubiufast.quest, port: 11302, type: trojan, password: 2c452c47-2b22-4e2e-905e-7dad35322101, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 0fc26d8c-1f9f-3c7e-8882-c25938fc57ba, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 24219d27-b80a-3d24-aa09-babb78db869a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 15976, type: trojan, password: e59b631e-d2a0-4ee4-b32a-ae77c8c77a34, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-02 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 15976, type: trojan, password: e59b631e-d2a0-4ee4-b32a-ae77c8c77a34, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-01 测试 - FastFly, server: fly0001.flyflylflyflysbs.sbs, port: 27236, type: vmess, uuid: e59b631e-d2a0-4ee4-b32a-ae77c8c77a34, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
