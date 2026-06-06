@@ -39,8 +39,8 @@ proxies:
 - {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡隧道1-NF-TK-GPT - giao云, server: 189SH02.xn--fiqa108dbd596g538d.com, port: 23658, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1024sg1.ljydw.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡隧道2-NF-TK-GPT - giao云, server: 189hz01.xn--fiqa108dbd596g538d.com, port: 22651, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 1028sg.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 4cf703f7-3819-318a-9d31-006a21bcbd3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 4cf703f7-3819-318a-9d31-006a21bcbd3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 58013fed-e862-309b-ab15-4cba70ae0bb1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 58013fed-e862-309b-ab15-4cba70ae0bb1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-01 | 1.5X - 凌云网络, server: js1.76po.com, port: 26480, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}

@@ -110,9 +110,9 @@ proxies:
 - {name: 备用网址ww2.giaoyun.xyz（未启用） - giao云, server: 9.9.9.9, port: 34430, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
 - {name: 合作or问题请发工单，三小时处理一次 - giao云, server: 9.9.9.9, port: 33335, type: ss, cipher: chacha20-ietf-poly1305, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, udp: true}
 - {name: 🇱🇺 卢森堡隧道-NF-TK-GPT - giao云, server: hz.888898.beauty, port: 10089, type: trojan, password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1, sni: 914lxb.ljydw.top, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 4cf703f7-3819-318a-9d31-006a21bcbd3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1|低倍率 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 4cf703f7-3819-318a-9d31-006a21bcbd3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 4cf703f7-3819-318a-9d31-006a21bcbd3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 58013fed-e862-309b-ab15-4cba70ae0bb1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1|低倍率 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 58013fed-e862-309b-ab15-4cba70ae0bb1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 58013fed-e862-309b-ab15-4cba70ae0bb1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 凌云网络 www.ly520.me - 凌云网络, server: 11.4.5.14, port: 19198, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国-01 | 1.8X - 凌云网络, server: 1.76po.com, port: 17744, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国-01 | 1.8X - 凌云网络, server: js1.76po.com, port: 51594, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
