@@ -9,8 +9,43 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 [vip①]①香港|低倍率 - MG Network
+  - 🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network
+  - 🇸🇬 [vip①]新加坡1|低倍率 - MG Network
+  - 🇸🇬 [vip①]新加坡2|低倍率 - MG Network
+  - 🇯🇵 [vip①]日本1|低倍率 - MG Network
+  - 🇯🇵 [vip①]日本2|低倍率 - MG Network
+  - 🇯🇵 [vip①]日本3|低倍率 - MG Network
+  - 🇺🇸 [vip①]美国1|低倍率 - MG Network
+  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - 🇰🇷 [vip①]韩国1|低倍率 - MG Network
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -27,11 +62,29 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -39,17 +92,92 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 [vip①]①香港|低倍率 - MG Network
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 [vip①]①香港|低倍率 - MG Network
+  - 🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 [vip①]新加坡1|低倍率 - MG Network
+  - 🇸🇬 [vip①]新加坡2|低倍率 - MG Network
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 [vip①]日本1|低倍率 - MG Network
+  - 🇯🇵 [vip①]日本2|低倍率 - MG Network
+  - 🇯🇵 [vip①]日本3|低倍率 - MG Network
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 [vip①]美国1|低倍率 - MG Network
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network
+  - 🇰🇷 [vip①]韩国1|低倍率 - MG Network
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]美国1|低倍率 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '[vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: e9509793-e1a1-3118-a2ad-79fd0aa03b8d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港|低倍率 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|低倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1|低倍率 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2|低倍率 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1|低倍率 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2|低倍率 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3|低倍率 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1|低倍率 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 40ee14a6-aacb-35d2-92a9-c6fb9aa71fd7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
