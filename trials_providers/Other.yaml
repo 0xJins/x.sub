@@ -177,8 +177,8 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5bd55115486.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: 5bd55115486.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: 5bd55115486.download.windowsupdate.com}, udp: true}
-- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 493af8f9-28bf-34a3-82aa-890946c1fda0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 493af8f9-28bf-34a3-82aa-890946c1fda0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.online最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 10c6a248-70e3-37ba-8d46-0162e8ea38cc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1|低倍率 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 10c6a248-70e3-37ba-8d46-0162e8ea38cc, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19891, type: vmess, uuid: ab8737a6-b267-38ec-a44c-11cf1eccc1d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19892, type: vmess, uuid: ab8737a6-b267-38ec-a44c-11cf1eccc1d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19893, type: vmess, uuid: ab8737a6-b267-38ec-a44c-11cf1eccc1d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
