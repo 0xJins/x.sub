@@ -661,7 +661,6 @@ rules:
 - DOMAIN-SUFFIX,switchadhub.com,💩 ‍广告
 - DOMAIN-SUFFIX,sycbbs.com,💩 ‍广告
 - DOMAIN-SUFFIX,synacast.com,💩 ‍广告
-- DOMAIN-SUFFIX,sysdig.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.com,💩 ‍广告
 - DOMAIN-SUFFIX,talkingdata.net,💩 ‍广告
 - DOMAIN-SUFFIX,tansuotv.com,💩 ‍广告
@@ -6644,6 +6643,7 @@ rules:
 - DOMAIN,wmsjsteam.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.clngaa.com,🛩️ ‍墙内
 - DOMAIN,dl.steam.ksyna.com,🛩️ ‍墙内
+- DOMAIN,gstore.val.manlaxy.com,🛩️ ‍墙内
 - DOMAIN,st.dl.bscstorage.net,🛩️ ‍墙内
 - DOMAIN,st.dl.eccdnx.com,🛩️ ‍墙内
 - DOMAIN,st.dl.pinyuncloud.com,🛩️ ‍墙内
@@ -6652,6 +6652,7 @@ rules:
 - DOMAIN,steampowered.com.8686c.com,🛩️ ‍墙内
 - DOMAIN,steamstatic.com.8686c.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,foxmail.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gcloudsvcs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,gtimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,idqqimg.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,igamecj.com,🛩️ ‍墙内
@@ -6954,6 +6955,12 @@ rules:
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cmbchina.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,95516.com,🛩️ ‍墙内
+- DOMAIN,cn.download.nvidia.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,made-in-china.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,micstatic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,focuschina.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,vemic.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,trademessenger.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.32.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,8.209.40.0/21,🛩️ ‍墙内,no-resolve
